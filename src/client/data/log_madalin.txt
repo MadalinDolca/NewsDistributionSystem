@@ -1,0 +1,1349 @@
+[2021-12-22 14:19:21] Către server: ok
+[2021-12-22 14:32:22] Către server: listcat
+[2021-12-22 14:32:22] De la server: 
+[30m[42mDispecer[0m Lista categoriilor: muzica | sport | film | gaming | arta | 
+Lista categoriilor la care te-ai abonat: muzica | arta | [33m
+> 
+[2021-12-22 14:32:59] Către server: showmes
+[2021-12-22 14:32:59] De la server: 
+[30m[42mDispecer[0m [31mComanda inexistenta![0m Incearca comanda[32m help[33m
+> 
+[2021-12-22 14:33:02] Către server: help
+[2021-12-22 14:33:02] De la server: 
+[30m[42mDispecer[0m Lista comenzilor:
+[32mregister[0m  Inregistrare cont nou
+[32mauth[0m      Autentificare in sistem
+
+[32monline[0m    Afisare utilizatori online
+
+[32mlistcat[0m   Afisare lista categorii si abonamente
+[32maddcat[0m    Adaugare categorie noua
+[32mremcat[0m    Stergere categorie
+[32msubcat[0m    Abonare la o categorie
+
+[32mlistmes[0m   Afisare mesaje stocate (Client)
+[32maddmes[0m    Adaugare mesaj
+[32mremmes[0m    Stergere mesaj
+
+[32mx[0m        Anulare request
+
+[32mbye[0m       Iesire din sistem (Client)[33m
+> 
+[2021-12-22 14:34:47] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mAltfel de arta
+[2021-12-22 14:34:47] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mb0840ad5f5d8e0fd28d69a2409403998
+[0mMesaj: [33mImi place intreg spectrumul de culor <3
+[2021-12-22 14:34:47] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 14:34:47] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 14:34:47] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [33mChiar foarte mult!
+[2021-12-22 14:34:47] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 14:34:47] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 14:45:02] bye
+[2021-12-22 14:45:02] 
+[30m[42mDispecer[0m Te-ai deconectat. La revedere!
+[2021-12-22 15:22:48] Lista mesajelor stocate:
+[2021-12-22 15:22:48] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mAltfel de arta
+[2021-12-22 15:22:48] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mb0840ad5f5d8e0fd28d69a2409403998
+[0mMesaj: [33mImi place intreg spectrumul de culor <3
+[2021-12-22 15:22:48] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 15:22:48] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 15:22:48] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [33mChiar foarte mult!
+[2021-12-22 15:22:48] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 15:22:48] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 15:23:15] help
+[2021-12-22 15:23:15] 
+[30m[42mDispecer[0m Lista comenzilor:
+[32mregister[0m  Inregistrare cont nou
+[32mauth[0m      Autentificare in sistem
+
+[32monline[0m    Afisare utilizatori online
+
+[32mlistcat[0m   Afisare lista categorii si abonamente
+[32maddcat[0m    Adaugare categorie noua
+[32mremcat[0m    Stergere categorie
+[32msubcat[0m    Abonare la o categorie
+
+[32mlistmes[0m   Afisare mesaje stocate (Client)
+[32maddmes[0m    Adaugare mesaj (Server + Client)
+[32mdelmes[0m    Stergere mesaj stocat (Client)
+[32meditmes[0m   Editare mesaj stocat (Client)
+
+[32mx[0m        Anulare request
+
+[32mbye[0m       Iesire din sistem (Client)[33m
+> 
+[2021-12-22 15:23:26] Lista mesajelor stocate:
+[2021-12-22 15:23:26] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mAltfel de arta
+[2021-12-22 15:23:26] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mb0840ad5f5d8e0fd28d69a2409403998
+[0mMesaj: [33mImi place intreg spectrumul de culor <3
+[2021-12-22 15:23:26] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 15:23:26] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 15:23:26] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [33mChiar foarte mult!
+[2021-12-22 15:23:26] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 15:23:26] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 15:24:29] Lista mesajelor stocate:
+[2021-12-22 15:24:29] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mAltfel de arta
+[2021-12-22 15:24:29] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mb0840ad5f5d8e0fd28d69a2409403998
+[0mMesaj: [33mImi place intreg spectrumul de culor <3
+[2021-12-22 15:24:29] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 15:24:29] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 15:24:29] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [33mChiar foarte mult!
+[2021-12-22 15:24:29] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 15:24:29] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 15:24:29] [33m> 
+[2021-12-22 15:25:55] Lista mesajelor stocate:
+[2021-12-22 15:25:55] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mAltfel de arta
+[2021-12-22 15:25:55] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mb0840ad5f5d8e0fd28d69a2409403998
+[0mMesaj: [33mImi place intreg spectrumul de culor <3
+[2021-12-22 15:25:55] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 15:25:55] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 15:25:55] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [33mChiar foarte mult!
+[2021-12-22 15:25:55] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 15:25:55] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 15:26:22] Introdu hash-ul mesajului: [33m
+[2021-12-22 15:27:41] Lista mesajelor stocate:
+[2021-12-22 15:27:41] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mAltfel de arta
+[2021-12-22 15:27:41] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mb0840ad5f5d8e0fd28d69a2409403998
+[0mMesaj: [33mImi place intreg spectrumul de culor <3
+[2021-12-22 15:27:41] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 15:27:41] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 15:27:41] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [33mChiar foarte mult!
+[2021-12-22 15:27:41] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 15:27:41] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 15:27:57] Introdu hash-ul mesajului: [33m
+[2021-12-22 15:28:02] Mesajul [33mb0840ad5f5d8e0fd28d69a2409403998[0m a fost sters![33m
+> 
+[2021-12-22 15:28:15] Lista mesajelor stocate:
+[2021-12-22 15:28:15] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mAltfel de arta
+[2021-12-22 15:28:15] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 15:28:15] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 15:28:15] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [33mChiar foarte mult!
+[2021-12-22 15:28:15] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 15:28:15] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 15:49:15] Lista mesajelor stocate:
+[2021-12-22 15:49:15] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mAltfel de arta
+[2021-12-22 15:49:15] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 15:49:15] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 15:49:15] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [33mChiar foarte mult!
+[2021-12-22 15:49:15] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 15:49:15] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 15:49:30] Introdu hash-ul mesajului: [33m
+[2021-12-22 15:49:33] [31mAcest mesaj nu este stocat![0m Introdu alt hash: [33m
+[2021-12-22 15:49:44] Introdu noul continut: [33m
+[2021-12-22 15:50:04] Mesajul [33mfce35b813282dc6d95154036aa9f9351[0m a fost editat![33m
+> 
+[2021-12-22 15:50:11] Lista mesajelor stocate:
+[2021-12-22 15:50:11] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 15:50:11] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 15:50:11] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 15:50:11] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [33mChiar foarte mult!
+[2021-12-22 15:50:11] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 15:50:11] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 16:26:24] Lista mesajelor stocate:
+[2021-12-22 16:26:24] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 16:26:24] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 16:26:24] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 16:26:24] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [33mChiar foarte mult!
+[2021-12-22 16:26:24] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 16:26:24] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 16:26:47] Introdu hash-ul mesajului: [33m
+[2021-12-22 16:26:51] [31mAcest mesaj nu este stocat![0m Introdu alt hash: [33m
+[2021-12-22 16:26:54] Introdu numarul de secunde: [33m
+[2021-12-22 16:26:56] [31mNu ai introdus un numar![0m Introdu un numar: [33m
+[2021-12-22 16:26:59] [31mNu ai introdus un numar![0m Introdu un numar: [33m
+[2021-12-22 16:27:04] f
+[2021-12-22 16:27:04] 
+[30m[42mDispecer[0m [31mComanda inexistenta![0m Incearca comanda[32m help[33m
+> 
+[2021-12-22 16:32:32] Lista mesajelor stocate:
+[2021-12-22 16:32:32] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 16:32:32] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 16:32:32] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 16:32:32] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [33mChiar foarte mult!
+[2021-12-22 16:32:32] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 16:32:32] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 16:32:57] Introdu hash-ul mesajului: [33m
+[2021-12-22 16:33:00] [31mAcest mesaj nu este stocat![0m Introdu alt hash: [33m
+[2021-12-22 16:33:04] Introdu numarul de secunde: [33m
+[2021-12-22 16:33:06] [31mNu ai introdus un numar![0m Introdu un numarul de secunde: [33m
+[2021-12-22 16:33:21] Lista mesajelor stocate:
+[2021-12-22 16:33:21] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 16:33:21] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 16:33:21] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 16:33:21] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [33mChiar foarte mult!
+[2021-12-22 16:33:21] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 16:33:21] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 16:33:22] Mesajul [33m7391eb4ad18c0a11bfdddf62041ad678[0m a fost sters automat![33m
+> 
+[2021-12-22 16:33:29] Lista mesajelor stocate:
+[2021-12-22 16:33:29] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 16:33:29] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 16:33:29] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 16:33:29] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 16:33:29] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 16:43:52] Lista mesajelor stocate:
+[2021-12-22 16:43:52] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 16:43:52] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 16:43:52] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 16:43:52] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 16:43:52] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 16:44:01] Introdu hash-ul mesajului: [33m
+[2021-12-22 16:44:03] [31mAcest mesaj nu este stocat![0m Introdu alt hash: [33m
+[2021-12-22 16:44:05] Introdu numarul de secunde: [33m
+[2021-12-22 16:44:06] [31mNu ai introdus un numar![0m Introdu numarul de secunde: [33m
+[2021-12-22 16:44:13] Mesajul [33mbe5799beda219a56f0c6a6e7108cc774[0m se va sterge in [36m10s[33m
+> 
+[2021-12-22 16:44:23] Mesajul [33mbe5799beda219a56f0c6a6e7108cc774[0m a fost [36msters automat[0m![33m
+> 
+[2021-12-22 16:44:51] Introdu hash-ul mesajului: [33m
+[2021-12-22 16:45:04] Introdu numarul de secunde: [33m
+[2021-12-22 16:45:13] Mesajul [33m9eeb6986ec1231aafe2d7be6cfed1b3f[0m se va sterge in [36m10s[33m
+> 
+[2021-12-22 16:45:23] Mesajul [33m9eeb6986ec1231aafe2d7be6cfed1b3f[0m a fost [36msters automat[0m![33m
+> 
+[2021-12-22 16:45:33] Lista mesajelor stocate:
+[2021-12-22 16:45:33] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 16:45:33] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 16:45:33] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 17:24:15] addmes
+[2021-12-22 17:24:15] 
+[30m[42mDispecer[0m Introdu categoria: [33m
+[2021-12-22 17:24:17] sport
+[2021-12-22 17:24:17] 
+[30m[42mDispecer[0m [31mNu esti abonat la aceasta categorie![0m Introdu alta categorie: [33m
+[2021-12-22 17:24:21] x
+[2021-12-22 17:24:21] 
+[30m[42mDispecer[0m [33m
+> 
+[2021-12-22 17:24:23] listcat
+[2021-12-22 17:24:23] 
+[30m[42mDispecer[0m Lista categoriilor: muzica | sport | film | gaming | arta | 
+Lista categoriilor la care te-ai abonat: muzica | arta | [33m
+> 
+[2021-12-22 17:36:05] addmes
+[2021-12-22 17:36:05] 
+[30m[42mDispecer[0m Introdu categoria: [33m
+[2021-12-22 17:36:08] muzica
+[2021-12-22 17:36:08] 
+[30m[42mDispecer[0m Introdu mesajul: [33m
+[2021-12-22 17:36:13] fffffffffffff
+[2021-12-22 17:36:13] 
+[30m[46mmuzica[0m Trimis de: [36mmadalin[0m | Hash: [36ma9d4619dff879b7c6b04d6cd2d616291
+[0mMesaj: [36mfffffffffffff
+[2021-12-22 17:36:19] addmes
+[2021-12-22 17:36:19] 
+[30m[42mDispecer[0m Introdu categoria: [33m
+[2021-12-22 17:36:21] muzica
+[2021-12-22 17:36:21] 
+[30m[42mDispecer[0m Introdu mesajul: [33m
+[2021-12-22 17:36:22] fdsafasdfsadfasdf
+[2021-12-22 17:36:22] 
+[30m[46mmuzica[0m Trimis de: [36mmadalin[0m | Hash: [36m9b520bc45f00d619b8f120a60b0840c5
+[0mMesaj: [36mfdsafasdfsadfasdf
+[2021-12-22 17:36:38] Introdu hash-ul mesajului: [33m
+[2021-12-22 17:36:44] Introdu numarul de secunde: [33m
+[2021-12-22 17:36:47] Mesajul [33m9b520bc45f00d619b8f120a60b0840c5[0m se va sterge in [36m30s[33m
+> 
+[2021-12-22 17:36:55] Introdu hash-ul mesajului: [33m
+[2021-12-22 17:36:58] Mesajul [33ma9d4619dff879b7c6b04d6cd2d616291[0m a fost sters![33m
+> 
+[2021-12-22 17:37:01] Lista mesajelor stocate:
+[2021-12-22 17:37:01] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 17:37:01] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 17:37:01] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33m9b520bc45f00d619b8f120a60b0840c5
+[0mMesaj: [33mfdsafasdfsadfasdf
+[2021-12-22 17:37:01] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 17:37:17] Mesajul [33m9b520bc45f00d619b8f120a60b0840c5[0m a fost [36msters automat[0m![33m
+> 
+[2021-12-22 17:37:40] Lista mesajelor stocate:
+[2021-12-22 17:37:40] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 17:37:40] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 17:37:40] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 17:42:00] hel[
+[2021-12-22 17:42:00] 
+[30m[42mDispecer[0m [31mComanda inexistenta![0m Incearca comanda[32m help[33m
+> 
+[2021-12-22 17:42:03] help
+[2021-12-22 17:42:03] 
+[30m[42mDispecer[0m Lista comenzilor:
+[32mregister[0m  Inregistrare cont nou
+[32mauth[0m      Autentificare in sistem
+
+[32monline[0m    Afisare utilizatori online
+
+[32mlistcat[0m   Afisare lista categorii si abonamente
+[32maddcat[0m    Adaugare categorie noua
+[32mremcat[0m    Stergere categorie
+[32msubcat[0m    Abonare la o categorie
+
+[32mlistmes[0m   Afisare mesaje stocate (Client)
+[32maddmes[0m    Adaugare mesaj (Server + Client)
+[32mdelmes[0m    Stergere mesaj stocat (Client)
+[32mautodelmes[0mStergere mesaj stocat dupa o anumita perioada de timp (Client)
+[32meditmes[0m   Editare mesaj stocat (Client)
+
+[32mx[0m        Anulare request
+
+[32mbye[0m       Iesire din sistem (Client)[33m
+> 
+[2021-12-22 17:46:50] online
+[2021-12-22 17:46:50] 
+[30m[42mDispecer[0m Lista utilizatorilor conectati: madalin | [33m
+> 
+[2021-12-22 17:46:52] Lista mesajelor stocate:
+[2021-12-22 17:46:52] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 17:46:52] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 17:46:52] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 17:46:59] addmes
+[2021-12-22 17:46:59] 
+[30m[42mDispecer[0m Introdu categoria: [33m
+[2021-12-22 17:47:01] sport
+[2021-12-22 17:47:01] 
+[30m[42mDispecer[0m [31mNu esti abonat la aceasta categorie![0m Introdu alta categorie: [33m
+[2021-12-22 17:47:05] muzica
+[2021-12-22 17:47:05] 
+[30m[42mDispecer[0m Introdu mesajul: [33m
+[2021-12-22 17:47:19] Foarte melodios!
+[2021-12-22 17:47:19] 
+[30m[46mmuzica[0m Trimis de: [36mmadalin[0m | Hash: [36maa968adb95851221ba88bf946648c973
+[0mMesaj: [36mFoarte melodios!
+[2021-12-22 17:47:22] addmes
+[2021-12-22 17:47:22] 
+[30m[42mDispecer[0m Introdu categoria: [33m
+[2021-12-22 17:47:24] muzica
+[2021-12-22 17:47:24] 
+[30m[42mDispecer[0m Introdu mesajul: [33m
+[2021-12-22 17:47:59] 🎵🎶🎵🎶🎶🎶🎶🎶🎵🎼🎧📻🎷
+[2021-12-22 17:47:59] 
+[30m[46mmuzica[0m Trimis de: [36mmadalin[0m | Hash: [36mc469b02df19a32a7cab86cdeba199502
+[0mMesaj: [36m🎵🎶🎵🎶🎶🎶🎶🎶🎵🎼🎧📻🎷
+[2021-12-22 17:49:55] Lista mesajelor stocate:
+[2021-12-22 17:49:55] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 17:49:55] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33mc469b02df19a32a7cab86cdeba199502
+[0mMesaj: [33m🎵🎶🎵🎶🎶🎶🎶🎶🎵🎼🎧📻🎷
+[2021-12-22 17:49:55] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 17:49:55] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 17:49:55] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33maa968adb95851221ba88bf946648c973
+[0mMesaj: [33mFoarte melodios!
+[2021-12-22 17:51:18] o
+[2021-12-22 17:51:18] 
+[30m[42mDispecer[0m [31mComanda inexistenta![0m Incearca comanda[32m help[33m
+> 
+[2021-12-22 17:51:22] help
+[2021-12-22 17:51:22] 
+[30m[42mDispecer[0m Lista comenzilor:
+[32mregister[0m  Inregistrare cont nou
+[32mauth[0m      Autentificare in sistem
+
+[32monline[0m    Afisare utilizatori online
+
+[32mlistcat[0m   Afisare lista categorii si abonamente
+[32maddcat[0m    Adaugare categorie noua
+[32mremcat[0m    Stergere categorie
+[32msubcat[0m    Abonare la o categorie
+
+[32mlistmes[0m   Afisare mesaje stocate (Client)
+[32maddmes[0m    Adaugare mesaj (Server + Client)
+[32mdelmes[0m    Stergere mesaj stocat (Client)
+[32mautodelmes[0mStergere mesaj stocat dupa o anumita perioada de timp (Client)
+[32meditmes[0m   Editare mesaj stocat (Client)
+
+[32mx[0m        Anulare request
+
+[32mbye[0m       Iesire din sistem (Client)[33m
+> 
+[2021-12-22 18:43:14] Lista mesajelor stocate:
+[2021-12-22 18:43:14] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 18:43:14] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33mc469b02df19a32a7cab86cdeba199502
+[0mMesaj: [33m🎵🎶🎵🎶🎶🎶🎶🎶🎵🎼🎧📻🎷
+[2021-12-22 18:43:14] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 18:43:14] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 18:43:14] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33maa968adb95851221ba88bf946648c973
+[0mMesaj: [33mFoarte melodios!
+[2021-12-22 18:43:30] unsubcat
+[2021-12-22 18:43:30] 
+[30m[42mDispecer[0m [31mNu esti abonat la nici o categorie! [0mTrimite [36msubcat[0m pentru abonare
+[2021-12-22 18:43:44] ok
+[2021-12-22 18:43:44] 
+[30m[42mDispecer[0m [31mComanda inexistenta![0m Incearca comanda[32m help[33m
+> 
+[2021-12-22 18:45:23] listcat
+[2021-12-22 18:45:23] 
+[30m[42mDispecer[0m Lista categoriilor: muzica | sport | film | gaming | arta | 
+Lista categoriilor la care te-ai abonat: muzica | arta | [33m
+> 
+[2021-12-22 18:45:33] unsubcat
+[2021-12-22 18:45:33] 
+[30m[42mDispecer[0m [31mNu esti abonat la nici o categorie! [0mTrimite [36msubcat[0m pentru abonare[33m
+> 
+[2021-12-22 18:47:46] listcat
+[2021-12-22 18:47:46] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36marta[0m | [33m
+> 
+[2021-12-22 18:48:01] g
+[2021-12-22 18:48:01] 
+[30m[42mDispecer[0m [31mComanda inexistenta![0m Incearca comanda[32m help[33m
+> 
+[2021-12-22 18:48:11] listcat
+[2021-12-22 18:48:11] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36marta[0m | [33m
+> 
+[2021-12-22 18:48:14] help
+[2021-12-22 18:48:14] 
+[30m[42mDispecer[0m Lista comenzilor:
+[32mregister[0m   Inregistrare cont nou
+[32mauth[0m       Autentificare in sistem
+
+[36monline[0m     Afisare utilizatori online
+
+[32mlistcat[0m    Afisare lista categorii si abonamente
+[32maddcat[0m     Adaugare categorie noua
+[32msubcat[0m     Abonare la o categorie
+[32munsubcat[0m   Dezabonare categorie si stergere mesaje aferente
+
+[33mlistmes[0m    Afisare mesaje stocate (Client)
+[33maddmes[0m     Adaugare mesaj (Server + Client)
+[33mdelmes[0m     Stergere mesaj stocat (Client)
+[33mautodelmes[0m Stergere mesaj stocat dupa o anumita perioada de timp (Client)
+[33meditmes[0m    Editare mesaj stocat (Client)
+
+[31mx[0m          Anulare request
+[31mbye[0m        Iesire din sistem (Client)[33m
+> 
+[2021-12-22 18:48:18] online
+[2021-12-22 18:48:18] 
+[30m[42mDispecer[0m Lista utilizatorilor conectati: madalin | [33m
+> 
+[2021-12-22 18:48:56] Lista mesajelor stocate:
+[2021-12-22 18:48:56] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 18:48:56] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33mc469b02df19a32a7cab86cdeba199502
+[0mMesaj: [33m🎵🎶🎵🎶🎶🎶🎶🎶🎵🎼🎧📻🎷
+[2021-12-22 18:48:56] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 18:48:56] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 18:48:56] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33maa968adb95851221ba88bf946648c973
+[0mMesaj: [33mFoarte melodios!
+[2021-12-22 18:49:08] listcat
+[2021-12-22 18:49:08] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36marta[0m | [33m
+> 
+[2021-12-22 18:49:13] unsubcat
+[2021-12-22 18:49:13] 
+[30m[42mDispecer[0m [31mNu esti abonat la nici o categorie! [0mTrimite [36msubcat[0m pentru abonare[33m
+> 
+[2021-12-22 18:50:56] online
+[2021-12-22 18:50:56] 
+[30m[42mDispecer[0m Lista utilizatorilor conectati: [36mmadalin[0m | [33m
+> 
+[2021-12-22 18:51:02] listcat
+[2021-12-22 18:51:02] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36marta[0m | [33m
+> 
+[2021-12-22 18:51:16] addmes
+[2021-12-22 18:51:16] 
+[30m[42mDispecer[0m Introdu categoria: [33m
+[2021-12-22 18:51:21] arta
+[2021-12-22 18:51:21] 
+[30m[42mDispecer[0m Introdu mesajul: [33m
+[2021-12-22 18:51:23] test
+[2021-12-22 18:51:23] 
+[30m[42mDispecer[0m [31mMesajul este prea scurt! Minim 5 caractere.[0m Reintrodu mesajul: [33m
+[2021-12-22 18:51:30] testuletz
+[2021-12-22 18:51:30] 
+[30m[46marta[0m Trimis de: [36mmadalin[0m | Hash: [36ma394c6608efca4effa13591768b036fe
+[0mMesaj: [36mtestuletz
+[2021-12-22 18:51:35] help
+[2021-12-22 18:51:35] 
+[30m[42mDispecer[0m Lista comenzilor:
+[32mregister[0m   Inregistrare cont nou
+[32mauth[0m       Autentificare in sistem
+
+[36monline[0m     Afisare utilizatori online
+
+[32mlistcat[0m    Afisare lista categorii si abonamente
+[32maddcat[0m     Adaugare categorie noua
+[32msubcat[0m     Abonare la o categorie
+[32munsubcat[0m   Dezabonare categorie si stergere mesaje aferente
+
+[33mlistmes[0m    Afisare mesaje stocate (Client)
+[33maddmes[0m     Adaugare mesaj (Server + Client)
+[33mdelmes[0m     Stergere mesaj stocat (Client)
+[33mautodelmes[0m Stergere mesaj stocat dupa o anumita perioada de timp (Client)
+[33meditmes[0m    Editare mesaj stocat (Client)
+
+[31mx[0m          Anulare request
+[31mbye[0m        Iesire din sistem (Client)[33m
+> 
+[2021-12-22 18:56:23] unsubcat
+[2021-12-22 18:56:23] 
+[30m[42mDispecer[0m [31mNu esti abonat la nici o categorie! [0mTrimite [36msubcat[0m pentru abonare[33m
+> 
+[2021-12-22 18:56:30] listcat
+[2021-12-22 18:56:30] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36marta[0m | [33m
+> 
+[2021-12-22 18:57:07] listcat
+[2021-12-22 18:57:07] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36marta[0m | [33m
+> 
+[2021-12-22 18:57:09] Lista mesajelor stocate:
+[2021-12-22 18:57:09] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 18:57:09] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33ma394c6608efca4effa13591768b036fe
+[0mMesaj: [33mtestuletz
+[2021-12-22 18:57:09] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33mc469b02df19a32a7cab86cdeba199502
+[0mMesaj: [33m🎵🎶🎵🎶🎶🎶🎶🎶🎵🎼🎧📻🎷
+[2021-12-22 18:57:09] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 18:57:09] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 18:57:09] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33maa968adb95851221ba88bf946648c973
+[0mMesaj: [33mFoarte melodios!
+[2021-12-22 18:57:19] unsubcat
+[2021-12-22 18:57:19] 
+[30m[42mDispecer[0m Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2021-12-22 18:57:21] f
+[2021-12-22 18:57:21] 
+[30m[42mDispecer[0m [31mNu esti abonat la aceasta categorie![0m Introdu alta categorie: [33m
+[2021-12-22 18:57:30] arta
+[2021-12-22 19:05:38] listcat
+[2021-12-22 19:05:38] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36marta[0m | [33m
+> 
+[2021-12-22 19:05:43] Lista mesajelor stocate:
+[2021-12-22 19:05:43] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mArta contemporana
+[2021-12-22 19:05:43] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33ma394c6608efca4effa13591768b036fe
+[0mMesaj: [33mtestuletz
+[2021-12-22 19:05:43] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33mc469b02df19a32a7cab86cdeba199502
+[0mMesaj: [33m🎵🎶🎵🎶🎶🎶🎶🎶🎵🎼🎧📻🎷
+[2021-12-22 19:05:43] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 19:05:43] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 19:05:43] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33maa968adb95851221ba88bf946648c973
+[0mMesaj: [33mFoarte melodios!
+[2021-12-22 19:06:03] unsubcat
+[2021-12-22 19:06:03] 
+[30m[42mDispecer[0m Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2021-12-22 19:06:05] arta
+[2021-12-22 19:06:05] Mesajele din categoria [33marta[0m au fost sterse![33m
+> 
+[2021-12-22 19:06:11] Lista mesajelor stocate:
+[2021-12-22 19:06:11] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33mc469b02df19a32a7cab86cdeba199502
+[0mMesaj: [33m🎵🎶🎵🎶🎶🎶🎶🎶🎵🎼🎧📻🎷
+[2021-12-22 19:06:11] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33maa968adb95851221ba88bf946648c973
+[0mMesaj: [33mFoarte melodios!
+[2021-12-22 19:06:22] listcat
+[2021-12-22 19:06:22] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36marta[0m | [33m
+> 
+[2021-12-22 19:06:38] listcat
+[2021-12-22 19:06:38] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36marta[0m | [33m
+> 
+[2021-12-22 19:10:29] listcat
+[2021-12-22 19:10:29] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36marta[0m | [33m
+> 
+[2021-12-22 19:10:32] addmes
+[2021-12-22 19:10:32] 
+[30m[42mDispecer[0m Introdu categoria: [33m
+[2021-12-22 19:10:33] arta
+[2021-12-22 19:10:33] 
+[30m[42mDispecer[0m Introdu mesajul: [33m
+[2021-12-22 19:10:36] asfsdafasf safd asdf asdfasd fasd f
+[2021-12-22 19:10:36] 
+[30m[46marta[0m Trimis de: [36mmadalin[0m | Hash: [36m679e8e77ba220984d87d80dafd503c48
+[0mMesaj: [36masfsdafasf safd asdf asdfasd fasd f
+[2021-12-22 19:10:40] addmes
+[2021-12-22 19:10:40] 
+[30m[42mDispecer[0m Introdu categoria: [33m
+[2021-12-22 19:10:43] arta
+[2021-12-22 19:10:43] 
+[30m[42mDispecer[0m Introdu mesajul: [33m
+[2021-12-22 19:10:47] dgdsfgsdfgsd gdfs gsdf gsd gsdf gsdfgsdf dsf g
+[2021-12-22 19:10:47] 
+[30m[46marta[0m Trimis de: [36mmadalin[0m | Hash: [36m9777d4a86902fb35fe46d77b3beb0fcf
+[0mMesaj: [36mdgdsfgsdfgsd gdfs gsdf gsd gsdf gsdfgsdf dsf g
+[2021-12-22 19:10:51] subcat
+[2021-12-22 19:10:51] 
+[30m[42mDispecer[0m Introdu numele categoriei la care doresti sa te abonezi: [33m
+[2021-12-22 19:10:53] gaming
+[2021-12-22 19:10:53] 
+[30m[42mDispecer[0m Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite [32mlistcat[33m
+> 
+[2021-12-22 19:11:06] addmes
+[2021-12-22 19:11:06] 
+[30m[42mDispecer[0m Introdu categoria: [33m
+[2021-12-22 19:11:08] gaming
+[2021-12-22 19:11:08] 
+[30m[42mDispecer[0m Introdu mesajul: [33m
+[2021-12-22 19:11:11] fsafsda fsadfdsaf sadfsadf
+[2021-12-22 19:11:11] 
+[30m[46mgaming[0m Trimis de: [36mmadalin[0m | Hash: [36m9ee3a59b928a4c5822e270c265168991
+[0mMesaj: [36mfsafsda fsadfdsaf sadfsadf
+[2021-12-22 19:11:14] addmes
+[2021-12-22 19:11:14] 
+[30m[42mDispecer[0m Introdu categoria: [33m
+[2021-12-22 19:11:16] gaming
+[2021-12-22 19:11:16] 
+[30m[42mDispecer[0m Introdu mesajul: [33m
+[2021-12-22 19:11:21] ertrewtwer xd we x
+[2021-12-22 19:11:21] 
+[30m[46mgaming[0m Trimis de: [36mmadalin[0m | Hash: [36m4bfe0c9eb2a96ec2a7d02070fe314f31
+[0mMesaj: [36mertrewtwer xd we x
+[2021-12-22 19:11:27] listcat
+[2021-12-22 19:11:27] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36marta[0m | [36mgaming[0m | [33m
+> 
+[2021-12-22 19:11:30] Lista mesajelor stocate:
+[2021-12-22 19:11:30] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m679e8e77ba220984d87d80dafd503c48
+[0mMesaj: [33masfsdafasf safd asdf asdfasd fasd f
+[2021-12-22 19:11:30] 
+[30m[43mgaming[0m Trimis de: [33mmadalin[0m | Hash: [33m4bfe0c9eb2a96ec2a7d02070fe314f31
+[0mMesaj: [33mertrewtwer xd we x
+[2021-12-22 19:11:30] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33mc469b02df19a32a7cab86cdeba199502
+[0mMesaj: [33m🎵🎶🎵🎶🎶🎶🎶🎶🎵🎼🎧📻🎷
+[2021-12-22 19:11:30] 
+[30m[43mgaming[0m Trimis de: [33mmadalin[0m | Hash: [33m9ee3a59b928a4c5822e270c265168991
+[0mMesaj: [33mfsafsda fsadfdsaf sadfsadf
+[2021-12-22 19:11:30] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33maa968adb95851221ba88bf946648c973
+[0mMesaj: [33mFoarte melodios!
+[2021-12-22 19:11:30] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m9777d4a86902fb35fe46d77b3beb0fcf
+[0mMesaj: [33mdgdsfgsdfgsd gdfs gsdf gsd gsdf gsdfgsdf dsf g
+[2021-12-22 19:11:48] unsubcat
+[2021-12-22 19:11:48] 
+[30m[42mDispecer[0m Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2021-12-22 19:11:51] s
+[2021-12-22 19:11:51] 
+[30m[42mDispecer[0m [31mNu esti abonat la aceasta categorie![0m Introdu alta categorie: [33m
+[2021-12-22 19:12:07] gaming
+[2021-12-22 19:12:07] Mesajele din categoria [33mgaming[0m au fost sterse![33m
+> 
+[2021-12-22 19:12:22] listcat
+[2021-12-22 19:12:22] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36marta[0m | [36mgaming[0m | [33m
+> 
+[2021-12-22 19:12:27] Lista mesajelor stocate:
+[2021-12-22 19:12:27] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m679e8e77ba220984d87d80dafd503c48
+[0mMesaj: [33masfsdafasf safd asdf asdfasd fasd f
+[2021-12-22 19:12:27] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33mc469b02df19a32a7cab86cdeba199502
+[0mMesaj: [33m🎵🎶🎵🎶🎶🎶🎶🎶🎵🎼🎧📻🎷
+[2021-12-22 19:12:27] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33maa968adb95851221ba88bf946648c973
+[0mMesaj: [33mFoarte melodios!
+[2021-12-22 19:12:27] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m9777d4a86902fb35fe46d77b3beb0fcf
+[0mMesaj: [33mdgdsfgsdfgsd gdfs gsdf gsd gsdf gsdfgsdf dsf g
+[2021-12-22 19:12:40] unsubcat
+[2021-12-22 19:12:40] 
+[30m[42mDispecer[0m Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2021-12-22 19:12:42] gaming
+[2021-12-22 19:12:42] Mesajele din categoria [33mgaming[0m au fost sterse![33m
+> 
+[2021-12-22 19:12:50] unsubcat
+[2021-12-22 19:12:50] 
+[30m[42mDispecer[0m Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2021-12-22 19:12:53] gaming
+[2021-12-22 19:12:53] Mesajele din categoria [33mgaming[0m au fost sterse![33m
+> 
+[2021-12-22 19:12:55] Lista mesajelor stocate:
+[2021-12-22 19:12:55] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m679e8e77ba220984d87d80dafd503c48
+[0mMesaj: [33masfsdafasf safd asdf asdfasd fasd f
+[2021-12-22 19:12:55] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33mc469b02df19a32a7cab86cdeba199502
+[0mMesaj: [33m🎵🎶🎵🎶🎶🎶🎶🎶🎵🎼🎧📻🎷
+[2021-12-22 19:12:55] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33maa968adb95851221ba88bf946648c973
+[0mMesaj: [33mFoarte melodios!
+[2021-12-22 19:12:55] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m9777d4a86902fb35fe46d77b3beb0fcf
+[0mMesaj: [33mdgdsfgsdfgsd gdfs gsdf gsd gsdf gsdfgsdf dsf g
+[2021-12-22 19:16:46] addmes
+[2021-12-22 19:16:46] 
+[30m[42mDispecer[0m Introdu categoria: [33m
+[2021-12-22 19:16:54] arta
+[2021-12-22 19:16:54] 
+[30m[42mDispecer[0m Introdu mesajul: [33m
+[2021-12-22 19:16:59] fsadfsadf as dfsdaad     fsadfas fas df 
+[2021-12-22 19:16:59] 
+[30m[46marta[0m Trimis de: [36mmadalin[0m | Hash: [36m6f9a23ace58e2c746086df4b9ddaac5b
+[0mMesaj: [36mfsadfsadf as dfsdaad     fsadfas fas df 
+[2021-12-22 19:17:06] addmes
+[2021-12-22 19:17:06] 
+[30m[42mDispecer[0m Introdu categoria: [33m
+[2021-12-22 19:17:08] arta
+[2021-12-22 19:17:08] 
+[30m[42mDispecer[0m Introdu mesajul: [33m
+[2021-12-22 19:17:12] sadfas fasdf  dafvcxbxvc n
+[2021-12-22 19:17:12] 
+[30m[46marta[0m Trimis de: [36mmadalin[0m | Hash: [36mc584cd59d9f571bc5a5ece062cff36d2
+[0mMesaj: [36msadfas fasdf  dafvcxbxvc n
+[2021-12-22 19:17:14] addmes
+[2021-12-22 19:17:14] 
+[30m[42mDispecer[0m Introdu categoria: [33m
+[2021-12-22 19:17:16] gaming
+[2021-12-22 19:17:16] 
+[30m[42mDispecer[0m Introdu mesajul: [33m
+[2021-12-22 19:17:22] saytrywr sdfa yts fdsa sda
+[2021-12-22 19:17:22] 
+[30m[46mgaming[0m Trimis de: [36mmadalin[0m | Hash: [36mc5f74ff1fcbf41d06d4d98b2a6064475
+[0mMesaj: [36msaytrywr sdfa yts fdsa sda
+[2021-12-22 19:17:29] Lista mesajelor stocate:
+[2021-12-22 19:17:29] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m6f9a23ace58e2c746086df4b9ddaac5b
+[0mMesaj: [33mfsadfsadf as dfsdaad     fsadfas fas df 
+[2021-12-22 19:17:29] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m679e8e77ba220984d87d80dafd503c48
+[0mMesaj: [33masfsdafasf safd asdf asdfasd fasd f
+[2021-12-22 19:17:29] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33mc584cd59d9f571bc5a5ece062cff36d2
+[0mMesaj: [33msadfas fasdf  dafvcxbxvc n
+[2021-12-22 19:17:29] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33mc469b02df19a32a7cab86cdeba199502
+[0mMesaj: [33m🎵🎶🎵🎶🎶🎶🎶🎶🎵🎼🎧📻🎷
+[2021-12-22 19:17:29] 
+[30m[43mgaming[0m Trimis de: [33mmadalin[0m | Hash: [33mc5f74ff1fcbf41d06d4d98b2a6064475
+[0mMesaj: [33msaytrywr sdfa yts fdsa sda
+[2021-12-22 19:17:29] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33maa968adb95851221ba88bf946648c973
+[0mMesaj: [33mFoarte melodios!
+[2021-12-22 19:17:29] 
+[30m[43marta[0m Trimis de: [33mmadalin[0m | Hash: [33m9777d4a86902fb35fe46d77b3beb0fcf
+[0mMesaj: [33mdgdsfgsdfgsd gdfs gsdf gsd gsdf gsdfgsdf dsf g
+[2021-12-22 19:17:37] listcat
+[2021-12-22 19:17:37] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36marta[0m | [36mgaming[0m | [33m
+> 
+[2021-12-22 19:17:46] unsubcat
+[2021-12-22 19:17:46] 
+[30m[42mDispecer[0m Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2021-12-22 19:17:48] s
+[2021-12-22 19:17:48] 
+[30m[42mDispecer[0m [31mNu esti abonat la aceasta categorie![0m Introdu alta categorie: [33m
+[2021-12-22 19:17:53] arta
+[2021-12-22 19:17:53] 
+[30m[42mDispecer[0m Te-ai dezabonat de la categoria [36m
+[2021-12-22 19:17:53] Mesajele din categoria [33marta[0m au fost sterse![33m
+> 
+[2021-12-22 19:19:13] listcat
+[2021-12-22 19:19:13] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mmuzica[0m | [36mgaming[0m | [33m
+> 
+[2021-12-22 19:19:18] Lista mesajelor stocate:
+[2021-12-22 19:19:18] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33mc469b02df19a32a7cab86cdeba199502
+[0mMesaj: [33m🎵🎶🎵🎶🎶🎶🎶🎶🎵🎼🎧📻🎷
+[2021-12-22 19:19:18] 
+[30m[43mgaming[0m Trimis de: [33mmadalin[0m | Hash: [33mc5f74ff1fcbf41d06d4d98b2a6064475
+[0mMesaj: [33msaytrywr sdfa yts fdsa sda
+[2021-12-22 19:19:18] 
+[30m[43mmuzica[0m Trimis de: [33mmadalin[0m | Hash: [33maa968adb95851221ba88bf946648c973
+[0mMesaj: [33mFoarte melodios!
+[2021-12-22 19:19:24] unsubcat
+[2021-12-22 19:19:24] 
+[30m[42mDispecer[0m Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2021-12-22 19:19:29] muzica
+[2021-12-22 19:19:29] 
+[30m[42mDispecer[0m Te-ai dezabonat de la categoria [36mmuzica
+[2021-12-22 19:19:29] Mesajele din categoria [33mmuzica[0m au fost sterse![33m
+> 
+[2021-12-22 19:19:39] listcat
+[2021-12-22 19:19:39] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mgaming[0m | [33m
+> 
+[2021-12-22 19:19:42] Lista mesajelor stocate:
+[2021-12-22 19:19:42] 
+[30m[43mgaming[0m Trimis de: [33mmadalin[0m | Hash: [33mc5f74ff1fcbf41d06d4d98b2a6064475
+[0mMesaj: [33msaytrywr sdfa yts fdsa sda
+[2021-12-22 19:21:37] help
+[2021-12-22 19:21:37] 
+[30m[42mDispecer[0m Lista comenzilor:
+[32mregister[0m   Inregistrare cont nou
+[32mauth[0m       Autentificare in sistem
+
+[36monline[0m     Afisare utilizatori online
+
+[32mlistcat[0m    Afisare lista categorii si abonamente
+[32maddcat[0m     Adaugare categorie noua
+[32msubcat[0m     Abonare la o categorie
+[32munsubcat[0m   Dezabonare categorie si stergere mesaje aferente
+
+[33mlistmes[0m    Afisare mesaje stocate (Client)
+[33maddmes[0m     Adaugare mesaj (Server + Client)
+[33mdelmes[0m     Stergere mesaj stocat (Client)
+[33mautodelmes[0m Stergere mesaj stocat dupa o anumita perioada de timp (Client)
+[33meditmes[0m    Editare mesaj stocat (Client)
+
+[31mx[0m          Anulare request
+[31mbye[0m        Iesire din sistem (Client)[33m
+> 
+[2021-12-22 19:39:25] listcat
+[2021-12-22 19:39:25] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mgaming[0m | [33m
+> 
+[2021-12-22 19:39:30] unsubcat
+[2021-12-22 19:39:30] 
+[30m[42mDispecer[0m Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2021-12-22 19:39:32] muzica
+[2021-12-22 19:39:32] 
+[30m[42mDispecer[0m [31mNu esti abonat la aceasta categorie![0m Introdu alta categorie: [33m
+[2021-12-22 19:39:46] a
+[2021-12-22 19:39:46] 
+[30m[42mDispecer[0m [31mNu esti abonat la aceasta categorie![0m Introdu alta categorie: [33m
+[2021-12-22 19:39:49] dasdasd
+[2021-12-22 19:39:49] 
+[30m[42mDispecer[0m [31mNu esti abonat la aceasta categorie![0m Introdu alta categorie: [33m
+[2021-12-22 21:23:51] listcat
+[2021-12-22 21:23:51] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mgaming[0m | [33m
+> 
+[2021-12-22 21:24:26] getnews
+[2021-12-22 21:24:26] 
+[30m[42mDispecer[0m Introdu numele categoriei: [33m
+[2021-12-22 21:24:29] a
+[2021-12-22 21:24:29] 
+[30m[42mDispecer[0m [31mNu esti abonat la aceasta categorie![0m Introdu alta categorie: [33m
+[2021-12-22 21:24:43] gaming
+[2021-12-22 21:24:43] 
+[30m[42mDispecer[0m S-a trimis solicitarea ta celorlalti utilizatori conectati pentru categoria [36mgaming
+[2021-12-22 21:29:40] getnews
+[2021-12-22 21:29:40] 
+[30m[42mDispecer[0m Introdu numele categoriei: [33m
+[2021-12-22 21:29:43] gaming
+[2021-12-22 21:29:43] 
+[30m[42mDispecer[0m S-a trimis solicitarea ta celorlalti utilizatori conectati pentru categoria [36mgaming[33m
+> 
+[2021-12-22 21:29:43] 4llF0r0n3~gaming~madalin
+[2021-12-22 21:34:42] listcat
+[2021-12-22 21:34:42] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mgaming[0m | [33m
+> 
+[2021-12-22 21:35:19] getnews
+[2021-12-22 21:35:19] 
+[30m[42mDispecer[0m Introdu numele categoriei: [33m
+[2021-12-22 21:35:21] gaming
+[2021-12-22 21:35:21] 
+[30m[42mDispecer[0m S-a trimis solicitarea ta celorlalti utilizatori conectati pentru categoria [36mgaming[33m
+> 
+[2021-12-22 21:35:21] 4llF0r0n3~gaming~madalin
+[2021-12-22 21:39:47] getnews
+[2021-12-22 21:39:47] 
+[30m[42mDispecer[0m Introdu numele categoriei: [33m
+[2021-12-22 21:39:49] gaming
+[2021-12-22 21:39:49] 
+[30m[42mDispecer[0m S-a trimis solicitarea ta celorlalti utilizatori conectati pentru categoria [36mgaming[33m
+> 
+[2021-12-22 21:39:49] 4llF0r0n3~gaming~madalin
+[2021-12-22 21:39:49] 4llF0r0n3~gaming~madalin
+[2021-12-22 21:39:49] 4llF0r0n3~gaming~madalin
+[2021-12-22 21:42:15] getnews
+[2021-12-22 21:42:15] 
+[30m[42mDispecer[0m Introdu numele categoriei: [33m
+[2021-12-22 21:42:16] gaming
+[2021-12-22 21:42:16] 
+[30m[42mDispecer[0m S-a trimis solicitarea ta celorlalti utilizatori conectati pentru categoria [36mgaming[33m
+> 
+[2021-12-22 21:42:16] 4llF0r0n3~gaming~madalin
+[2021-12-22 21:42:34] Lista mesajelor stocate:
+[2021-12-22 21:42:34] 
+[30m[43mgaming[0m Trimis de: [33mmadalin[0m | Hash: [33mc5f74ff1fcbf41d06d4d98b2a6064475
+[0mMesaj: [33msaytrywr sdfa yts fdsa sda
+[2021-12-22 21:43:13] getnews
+[2021-12-22 21:43:13] 
+[30m[42mDispecer[0m Introdu numele categoriei: [33m
+[2021-12-22 21:43:16] muzica
+[2021-12-22 21:43:16] 
+[30m[42mDispecer[0m [31mNu esti abonat la aceasta categorie![0m Introdu alta categorie: [33m
+[2021-12-22 21:43:25] x
+[2021-12-22 21:43:25] 
+[30m[42mDispecer[0m [33m
+> 
+[2021-12-22 21:43:27] subcat
+[2021-12-22 21:43:27] 
+[30m[42mDispecer[0m Introdu numele categoriei la care doresti sa te abonezi: [33m
+[2021-12-22 21:43:29] muzica
+[2021-12-22 21:43:29] 
+[30m[42mDispecer[0m Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite [32mlistcat[33m
+> 
+[2021-12-22 21:43:31] getnews
+[2021-12-22 21:43:31] 
+[30m[42mDispecer[0m Introdu numele categoriei: [33m
+[2021-12-22 21:43:33] muzica
+[2021-12-22 21:43:33] 
+[30m[42mDispecer[0m S-a trimis solicitarea ta celorlalti utilizatori conectati pentru categoria [36mmuzica[33m
+> 
+[2021-12-22 21:43:33] 4llF0r0n3~muzica~madalin
+[2021-12-22 22:34:51] listcat
+[2021-12-22 22:34:51] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mgaming[0m | [36mmuzica[0m | [33m
+> 
+[2021-12-22 22:34:54] Lista mesajelor stocate:
+[2021-12-22 22:34:54] 
+[30m[43mgaming[0m Trimis de: [33mmadalin[0m | Hash: [33mc5f74ff1fcbf41d06d4d98b2a6064475
+[0mMesaj: [33msaytrywr sdfa yts fdsa sda
+[2021-12-22 22:35:50] getnews
+[2021-12-22 22:35:50] 
+[30m[42mDispecer[0m Introdu numele categoriei: [33m
+[2021-12-22 22:35:54] s
+[2021-12-22 22:35:54] 
+[30m[42mDispecer[0m [31mNu esti abonat la aceasta categorie![0m Introdu alta categorie: [33m
+[2021-12-22 22:36:05] muzica
+[2021-12-22 22:36:05] 
+[30m[42mDispecer[0m S-a trimis solicitarea ta celorlalti utilizatori conectati pentru categoria [36mmuzica[33m
+> 
+[2021-12-22 22:36:05] 4llF0r0n3~muzica~madalin
+[2021-12-22 22:36:05] 
+[30m[46mmuzica[0m Trimis de: [36masd[0m | Hash: [36m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [36mUNTOLD 2077
+[2021-12-22 22:36:24] Lista mesajelor stocate:
+[2021-12-22 22:36:24] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 22:36:24] 
+[30m[43mgaming[0m Trimis de: [33mmadalin[0m | Hash: [33mc5f74ff1fcbf41d06d4d98b2a6064475
+[0mMesaj: [33msaytrywr sdfa yts fdsa sda
+[2021-12-22 22:36:44] getnews
+[2021-12-22 22:36:44] 
+[30m[42mDispecer[0m Introdu numele categoriei: [33m
+[2021-12-22 22:36:46] arta
+[2021-12-22 22:36:46] 
+[30m[42mDispecer[0m [31mNu esti abonat la aceasta categorie![0m Introdu alta categorie: [33m
+[2021-12-22 22:36:56] x
+[2021-12-22 22:36:56] 
+[30m[42mDispecer[0m [33m
+> 
+[2021-12-22 22:37:01] listcat
+[2021-12-22 22:37:01] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36mgaming[0m | [36mmuzica[0m | [33m
+> 
+[2021-12-22 22:37:05] subcat
+[2021-12-22 22:37:05] 
+[30m[42mDispecer[0m Introdu numele categoriei la care doresti sa te abonezi: [33m
+[2021-12-22 22:37:06] arta
+[2021-12-22 22:37:06] 
+[30m[42mDispecer[0m Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite [32mlistcat[33m
+> 
+[2021-12-22 22:37:14] getnews
+[2021-12-22 22:37:14] 
+[30m[42mDispecer[0m Introdu numele categoriei: [33m
+[2021-12-22 22:37:15] arta
+[2021-12-22 22:37:15] 
+[30m[42mDispecer[0m S-a trimis solicitarea ta celorlalti utilizatori conectati pentru categoria [36marta[33m
+> 
+[2021-12-22 22:37:15] 4llF0r0n3~arta~madalin
+[2021-12-22 22:37:15] 
+[30m[46marta[0m Trimis de: [36masd[0m | Hash: [36mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [36mAltfel de arta
+[2021-12-22 22:37:15] 
+[30m[46marta[0m Trimis de: [36masd[0m | Hash: [36mb0840ad5f5d8e0fd28d69a2409403998
+[0mMesaj: [36mImi place intreg spectrumul de culor <3
+[2021-12-22 22:37:15] 
+[30m[46marta[0m Trimis de: [36masd[0m | Hash: [36mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [36mMesaj foarte artistic!
+[2021-12-22 22:37:15] 
+[30m[46marta[0m Trimis de: [36masd[0m | Hash: [36m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [36mChiar foarte mult!
+[2021-12-22 22:37:15] 
+[30m[46marta[0m Trimis de: [36masd[0m | Hash: [36mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [36mArtistic vorbind :D
+[2021-12-22 22:37:15] 
+[30m[46marta[0m Trimis de: [36masd[0m | Hash: [36ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [36mWooooow!
+[2021-12-22 22:37:15] 
+[30m[46marta[0m Trimis de: [36mqwe[0m | Hash: [36ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [36mWooooow!
+[2021-12-22 22:38:18] Lista mesajelor stocate:
+[2021-12-22 22:38:18] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mfce35b813282dc6d95154036aa9f9351
+[0mMesaj: [33mAltfel de arta
+[2021-12-22 22:38:18] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 22:38:18] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mb0840ad5f5d8e0fd28d69a2409403998
+[0mMesaj: [33mImi place intreg spectrumul de culor <3
+[2021-12-22 22:38:18] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbf4d6c19cd626e79ac32747a35a7372d
+[0mMesaj: [33mMesaj foarte artistic!
+[2021-12-22 22:38:18] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33m7391eb4ad18c0a11bfdddf62041ad678
+[0mMesaj: [33mChiar foarte mult!
+[2021-12-22 22:38:18] 
+[30m[43marta[0m Trimis de: [33masd[0m | Hash: [33mbe5799beda219a56f0c6a6e7108cc774
+[0mMesaj: [33mArtistic vorbind :D
+[2021-12-22 22:38:18] 
+[30m[43mgaming[0m Trimis de: [33mmadalin[0m | Hash: [33mc5f74ff1fcbf41d06d4d98b2a6064475
+[0mMesaj: [33msaytrywr sdfa yts fdsa sda
+[2021-12-22 22:38:18] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 22:46:43] unsubcat
+[2021-12-22 22:46:43] 
+[30m[42mDispecer[0m Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2021-12-22 22:46:46] arta
+[2021-12-22 22:46:46] 
+[30m[42mDispecer[0m Te-ai dezabonat de la categoria [36marta
+[2021-12-22 22:46:46] Mesajele din categoria [33marta[0m au fost sterse![33m
+> 
+[2021-12-22 22:46:59] Lista mesajelor stocate:
+[2021-12-22 22:46:59] 
+[30m[43mmuzica[0m Trimis de: [33masd[0m | Hash: [33m9eeb6986ec1231aafe2d7be6cfed1b3f
+[0mMesaj: [33mUNTOLD 2077
+[2021-12-22 22:46:59] 
+[30m[43mgaming[0m Trimis de: [33mmadalin[0m | Hash: [33mc5f74ff1fcbf41d06d4d98b2a6064475
+[0mMesaj: [33msaytrywr sdfa yts fdsa sda
+[2021-12-23 16:12:36] onlinme
+[2021-12-23 16:12:36] 
+[42mDispecer Comanda inexistenta! Incearca comanda[32m help
+> 
+[2021-12-23 16:12:38] online
+[2021-12-23 16:12:38] 
+[42mDispecer Lista utilizatorilor conectati: madalin | 
+> 
+[2021-12-23 16:12:43] Conexiunea a fost inchisa!
+[2021-12-23 16:12:43] Conexiunea a fost inchisa!
+[2021-12-23 17:34:07] Conexiunea a fost inchisa!
+[2021-12-23 17:34:07] Nu se mai primesc mesaje!
+[2021-12-23 17:34:52] Conexiunea a fost inchisa!
+[2021-12-23 17:34:52] Nu se mai primesc mesaje!
+[2021-12-23 17:47:44] Nu se mai primesc mesaje!
+[2021-12-23 17:50:57] Nu se mai primesc mesaje!
+[2021-12-23 17:51:38] 
+[42mDispecer Utilizatorul qwe s-a conectat!
+[2021-12-23 17:54:30] Nu se mai primesc mesaje!
+[2021-12-23 17:54:48] 
+[42mDispecer Utilizatorul qwe s-a conectat!
+[2021-12-23 17:55:46] Conexiunea a fost inchisa!
+[2021-12-23 17:55:46] Nu se mai primesc mesaje!
+[2021-12-23 19:20:19] Nu se mai primesc mesaje!
+[2021-12-23 19:22:55] Nu se mai primesc mesaje!
+[2021-12-23 19:23:53] help
+[2021-12-23 19:23:53] 
+[42mDispecer Lista comenzilor:
+[32mregister   Inregistrare cont nou
+[32mauth       Autentificare in sistem
+
+online     Afisare utilizatori online
+
+[32mlistcat    Afisare lista categorii si abonamente
+[32maddcat     Adaugare categorie noua
+[32msubcat     Abonare la o categorie
+[32munsubcat   Dezabonare categorie si stergere mesaje aferente
+[32mgetnews    Solicita mesaje dintr-o categorie de la ceilalti clienti
+
+listmes    Afisare mesaje stocate (Client)
+addmes     Adaugare mesaj (Server + Client)
+delmes     Stergere mesaj stocat (Client)
+autodelmes Stergere mesaj stocat dupa o anumita perioada de timp (Client)
+editmes    Editare mesaj stocat (Client)
+
+x          Anulare request
+bye        Iesire din sistem (Client)
+> 
+[2021-12-23 19:28:05] help
+[2021-12-23 19:28:05] 
+[42mDispecer Lista comenzilor:
+[32mregister   Inregistrare cont nou
+[32mauth       Autentificare in sistem
+
+online     Afisare utilizatori online
+
+[32mlistcat    Afisare lista categorii si abonamente
+[32maddcat     Adaugare categorie noua
+[32msubcat     Abonare la o categorie
+[32munsubcat   Dezabonare categorie si stergere mesaje aferente
+[32mgetnews    Solicita mesaje dintr-o categorie de la ceilalti clienti
+
+listmes    Afisare mesaje stocate (Client)
+addmes     Adaugare mesaj (Server + Client)
+delmes     Stergere mesaj stocat (Client)
+autodelmes Stergere mesaj stocat dupa o anumita perioada de timp (Client)
+editmes    Editare mesaj stocat (Client)
+
+x          Anulare request
+bye        Iesire din sistem (Client)
+> 
+[2021-12-23 19:33:20] Nu se mai primesc mesaje!
+[2021-12-23 19:35:53] listcat
+[2021-12-23 19:35:53] 
+[42mDispecer Lista categoriilor: muzica | sport | film | gaming | arta | 
+Lista categoriilor la care te-ai abonat: gaming | muzica | 
+> 
+[2021-12-23 19:45:57] Nu se mai primesc mesaje!
+[2021-12-23 19:46:29] usersub
+[2021-12-23 19:46:29] 
+[42mDispecer Introdu numele utilizatorului: 
+[2021-12-23 19:46:31] qwe
+[2021-12-23 19:46:31] 
+[42mDispecer Abonamentele utilizatorului qwe: arta | 
+[2021-12-23 19:47:02] Nu se mai primesc mesaje!
+[2021-12-23 19:47:15] usersub
+[2021-12-23 19:47:15] 
+[42mDispecer Introdu numele utilizatorului: 
+[2021-12-23 19:47:17] d
+[2021-12-23 19:47:17] 
+[42mDispecer Acest utilizator nu exista! Trimite alt nume: 
+[2021-12-23 19:47:20] asd
+[2021-12-23 19:47:20] 
+[42mDispecer Abonamentele utilizatorului asd: film | arta | muzica | 
+> 

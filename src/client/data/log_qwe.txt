@@ -1,0 +1,36 @@
+[2021-12-22 21:23:58] listcat
+[2021-12-22 21:23:58] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36marta[0m | [33m
+> 
+[2021-12-22 21:29:43] Ai primit o solicitare de mesaje de la [33mmadalin pentru categoria [33mgaming[0m
+[2021-12-22 21:34:10] listcat
+[2021-12-22 21:34:10] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36marta[0m | [33m
+> 
+[2021-12-22 21:34:50] Lista mesajelor stocate:
+[2021-12-22 21:34:50] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 21:35:21] Ai primit o solicitare de mesaje de la [33mmadalin[0m pentru categoria [33mgaming
+> 
+[2021-12-22 21:42:49] Lista mesajelor stocate:
+[2021-12-22 21:42:49] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 22:34:46] listcat
+[2021-12-22 22:34:46] 
+[30m[42mDispecer[0m Lista categoriilor: [36mmuzica[0m | [36msport[0m | [36mfilm[0m | [36mgaming[0m | [36marta[0m | 
+Lista categoriilor la care te-ai abonat: [36marta[0m | [33m
+> 
+[2021-12-22 22:34:48] Lista mesajelor stocate:
+[2021-12-22 22:34:48] 
+[30m[43marta[0m Trimis de: [33mqwe[0m | Hash: [33ma99cfb75811b53583f93c8791992574e
+[0mMesaj: [33mWooooow!
+[2021-12-22 22:37:15] Ai primit o solicitare de mesaje de la [33mmadalin[0m pentru categoria [33marta
+> 
+[2021-12-23 17:54:30] Nu se mai primesc mesaje!
+[2021-12-23 17:55:46] 
+[42mDispecer Utilizatorul madalin s-a deconectat!
+[2021-12-23 17:56:12] Nu se mai primesc mesaje!

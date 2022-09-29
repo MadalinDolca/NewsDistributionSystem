@@ -1,0 +1,194 @@
+[2022-01-14 12:50:57] 
+[42mDispecer Utilizatorul asd s-a [32mconectat!
+> 
+[2022-01-14 12:51:58] 
+[42mDispecer Utilizatorul madalin s-a [32mconectat!
+> 
+[2022-01-14 12:52:09] 
+[42mDispecer Utilizatorul asd s-a [32mconectat!
+> 
+[2022-01-14 13:01:13] 
+[42mDispecer Utilizatorul asd s-a deconectat!
+> 
+[2022-01-14 13:01:31] Nu se mai primesc mesaje!
+[2022-01-14 13:01:31] Conexiunea a fost inchisa!
+[2022-01-14 13:06:22] 
+[42mDispecer Utilizatorul asd s-a [32mconectat!
+> 
+[2022-01-14 13:06:35] Conexiunea a fost inchisa!
+[2022-01-14 13:06:35] Nu se mai primesc mesaje!
+[2022-01-14 13:37:03] subcat
+[2022-01-14 13:37:03] 
+[42mDispecer Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:37:05] muzica
+[2022-01-14 13:37:05] 
+[42mDispecer Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:37:28] 
+[42mDispecer Utilizatorul asd s-a [32mconectat!
+> 
+[2022-01-14 13:37:35] subcat
+[2022-01-14 13:37:35] 
+[42mDispecer Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:37:39] sport
+[2022-01-14 13:37:39] 
+[42mDispecer Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:37:59] help
+[2022-01-14 13:37:59] 
+[42mDispecer Lista comenzilor:
+[32mregister   Inregistrare cont nou
+[32mauth       Autentificare in sistem
+
+online     Afisare utilizatori online
+usersub    Afiseaza abonamentele unui utilizator
+
+[32mlistcat    Afisare lista categorii si abonamente
+[32maddcat     Adaugare categorie noua
+[32msubcat     Abonare la o categorie
+[32munsubcat   Dezabonare categorie si stergere mesaje aferente
+[32mgetnews    Solicita mesaje dintr-o categorie de la ceilalti clienti
+
+listmes    Afisare mesaje stocate (Client)
+addmes     Adaugare mesaj (Server + Client)
+delmes     Stergere mesaj stocat (Client)
+autodelmes Stergere mesaj stocat dupa o anumita perioada de timp (Client)
+editmes    Editare mesaj stocat (Client)
+
+x          Anulare request
+bye        Iesire din sistem (Client)
+> 
+[2022-01-14 13:48:17] listcat
+[2022-01-14 13:48:17] 
+[42mDispecer Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: muzica | sport | 
+> 
+[2022-01-14 13:48:28] 
+muzica Trimis de: madalin | Hash: 50adb92f51485d7bb21c1ea3b3b0881b
+Mesaj: Mesaj din categoria muzica
+[2022-01-14 13:49:07] addmes
+[2022-01-14 13:49:07] 
+[42mDispecer Introdu categoria: 
+[2022-01-14 13:49:09] muzica
+[2022-01-14 13:49:09] 
+[42mDispecer Introdu mesajul: 
+[2022-01-14 13:49:18] Si eu trimis un mesaj in muzica
+[2022-01-14 13:49:18] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 13:58:45] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:00:25] 
+sport Trimis de: madalin | Hash: 899adfa1bb0ac683ae3b7a4367db80b1
+Mesaj: Dinamo 8:1 Real Madrid. That's a fact :D
+[2022-01-14 14:04:42] help
+[2022-01-14 14:04:42] 
+[42mDispecer Lista comenzilor:
+[32mregister   Inregistrare cont nou
+[32mauth       Autentificare in sistem
+
+online     Afisare utilizatori online
+usersub    Afiseaza abonamentele unui utilizator
+
+[32mlistcat    Afisare lista categorii si abonamente
+[32maddcat     Adaugare categorie noua
+[32msubcat     Abonare la o categorie
+[32munsubcat   Dezabonare categorie si stergere mesaje aferente
+[32mgetnews    Solicita mesaje dintr-o categorie de la ceilalti clienti
+
+listmes    Afisare mesaje stocate (Client)
+addmes     Adaugare mesaj (Server + Client)
+delmes     Stergere mesaj stocat (Client)
+autodelmes Stergere mesaj stocat dupa o anumita perioada de timp (Client)
+editmes    Editare mesaj stocat (Client)
+
+x          Anulare request
+bye        Iesire din sistem (Client)
+> 
+[2022-01-14 14:22:18] Lista mesajelor stocate (4 mesaje)
+[2022-01-14 14:22:18] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:22:18] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 14:22:18] 
+muzica Trimis de: madalin | Hash: 50adb92f51485d7bb21c1ea3b3b0881b
+Mesaj: Mesaj din categoria muzica
+[2022-01-14 14:22:18] 
+sport Trimis de: madalin | Hash: 899adfa1bb0ac683ae3b7a4367db80b1
+Mesaj: Dinamo 8:1 Real Madrid. That's a fact :D
+[2022-01-14 14:23:05] 
+[42mDispecer Utilizatorul asd s-a deconectat!
+> 
+[2022-01-14 14:23:28] 
+[42mDispecer Utilizatorul asd s-a [32mconectat!
+> 
+[2022-01-14 14:26:37] Nu se mai primesc mesaje!
+[2022-01-14 14:53:33] Lista mesajelor stocate (4 mesaje)
+[2022-01-14 14:53:33] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:53:33] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 14:53:33] 
+muzica Trimis de: madalin | Hash: 50adb92f51485d7bb21c1ea3b3b0881b
+Mesaj: Mesaj din categoria muzica
+[2022-01-14 14:53:33] 
+sport Trimis de: madalin | Hash: 899adfa1bb0ac683ae3b7a4367db80b1
+Mesaj: Dinamo 8:1 Real Madrid. That's a fact :D
+[2022-01-14 14:54:26] Introdu hash-ul mesajului: 
+[2022-01-14 14:54:29] Mesajul 899adfa1bb0ac683ae3b7a4367db80b1 a fost sters!
+> 
+[2022-01-14 14:54:30] Introdu hash-ul mesajului: 
+[2022-01-14 14:54:32] 
+> 
+[2022-01-14 14:54:36] Lista mesajelor stocate (3 mesaje)
+[2022-01-14 14:54:36] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:54:36] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 14:54:36] 
+muzica Trimis de: madalin | Hash: 50adb92f51485d7bb21c1ea3b3b0881b
+Mesaj: Mesaj din categoria muzica
+[2022-01-14 14:54:44] Introdu hash-ul mesajului: 
+[2022-01-14 14:54:48] Mesajul 50adb92f51485d7bb21c1ea3b3b0881b a fost sters!
+> 
+[2022-01-14 14:54:50] Lista mesajelor stocate (2 mesaje)
+[2022-01-14 14:54:50] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:54:50] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 15:01:07] 
+[42mDispecer Utilizatorul madalin s-a deconectat!
+> 
+[2022-01-14 15:02:39] subcat
+[2022-01-14 15:02:39] 
+[42mDispecer Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 15:02:45] gaming
+[2022-01-14 15:02:45] 
+[42mDispecer Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 15:02:50] addmes
+[2022-01-14 15:02:50] 
+[42mDispecer Introdu categoria: 
+[2022-01-14 15:02:52] gaming
+[2022-01-14 15:02:52] 
+[42mDispecer Introdu mesajul: 
+[2022-01-14 15:03:06] Si eu le am tot de acolo
+[2022-01-14 15:03:06] 
+gaming Trimis de: qwe | Hash: bf3312b3dbfe26958f241d2a77eb8e18
+Mesaj: Si eu le am tot de acolo
+[2022-01-14 15:03:22] 
+[42mDispecer Utilizatorul madalin s-a [32mconectat!
+> 
+[2022-01-14 15:04:04] Ai primit o solicitare de mesaje de la madalin pentru categoria gaming
+[2022-01-14 15:04:04] Ai raspuns solicitarii lui madalin pentru categoria gaming cu 1 mesaje
+> 
+[2022-01-14 15:39:35] Nu se mai primesc mesaje!

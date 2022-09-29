@@ -1,0 +1,510 @@
+[2022-01-14 12:39:21] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 12:39:48] register
+[2022-01-14 12:39:48] 
+[42mDispecer Nume utilizator dorit: 
+[2022-01-14 12:39:48] 
+[2022-01-14 12:39:48] 
+[42mDispecer Parola dorita: 
+[2022-01-14 12:39:49] 
+[2022-01-14 12:39:49] 
+[42mDispecer Parola este prea scurta! (min 2) Introdu alta parola: 
+[2022-01-14 12:39:52] x
+[2022-01-14 12:39:52] 
+[42mDispecer 
+> 
+[2022-01-14 12:39:56] register
+[2022-01-14 12:39:56] 
+[42mDispecer Nume utilizator dorit: 
+[2022-01-14 12:40:00] madalin
+[2022-01-14 12:40:00] 
+[42mDispecer Parola dorita: 
+[2022-01-14 12:40:03] 000
+[2022-01-14 12:40:03] 
+[42mDispecer Cont creat cu succes! Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 12:40:16] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 12:40:19] Conexiunea a fost inchisa!
+[2022-01-14 12:40:19] Nu se mai primesc mesaje!
+[2022-01-14 12:40:32] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 12:40:36] register
+[2022-01-14 12:40:36] 
+[42mDispecer Nume utilizator dorit: 
+[2022-01-14 12:40:39] madalin
+[2022-01-14 12:40:39] 
+[42mDispecer Nume de utilizator existent! Introdu alt nume: 
+[2022-01-14 12:40:46] qwe
+[2022-01-14 12:40:46] 
+[42mDispecer Parola dorita: 
+[2022-01-14 12:40:49] q
+[2022-01-14 12:40:49] 
+[42mDispecer Parola este prea scurta! (min 2) Introdu alta parola: 
+[2022-01-14 12:40:54] qwe
+[2022-01-14 12:40:54] 
+[42mDispecer Cont creat cu succes! Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 12:47:17] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 12:47:19] auth
+[2022-01-14 12:47:19] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 12:47:21] madalin
+[2022-01-14 12:47:21] 
+[42mDispecer Parola: 
+[2022-01-14 12:47:23] 000
+[2022-01-14 12:47:23] 
+[42mDispecer Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 12:47:31] auth
+[2022-01-14 12:47:31] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 12:47:45] 
+[2022-01-14 12:47:45] 
+[42mDispecer Nu ai introdus nici un nume! Reintrodu numele: 
+[2022-01-14 12:47:47] q
+[2022-01-14 12:47:47] 
+[42mDispecer Nume de utilizator inexistent! Reintrodu numele: 
+[2022-01-14 12:47:49] qwe
+[2022-01-14 12:47:49] 
+[42mDispecer Parola: 
+[2022-01-14 12:47:51] q
+[2022-01-14 12:47:51] 
+[42mDispecer Parola nu corespunde acestui cont! Reintrodu parola: 
+[2022-01-14 12:47:56] qwe
+[2022-01-14 12:47:56] 
+[42mDispecer Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 12:49:27] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 12:49:32] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 12:49:34] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 12:49:46] auth
+[2022-01-14 12:49:46] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 12:49:50] qwe
+[2022-01-14 12:49:50] 
+[42mDispecer Parola: 
+[2022-01-14 12:49:51] qwe
+[2022-01-14 12:49:51] 
+[42mDispecer Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 12:49:56] auth
+[2022-01-14 12:49:56] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 12:50:35] asd
+[2022-01-14 12:50:35] 
+[42mDispecer Nume de utilizator inexistent! Reintrodu numele: 
+[2022-01-14 12:50:40] x
+[2022-01-14 12:50:40] 
+[42mDispecer 
+> 
+[2022-01-14 12:50:51] auth
+[2022-01-14 12:50:51] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 12:50:53] asd
+[2022-01-14 12:50:53] 
+[42mDispecer Parola: 
+[2022-01-14 12:50:57] asd
+[2022-01-14 12:50:57] 
+[42mDispecer Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 12:51:05] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 12:51:06] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 12:51:07] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 12:51:18] auth
+[2022-01-14 12:51:18] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 12:51:19] qwe
+[2022-01-14 12:51:19] 
+[42mDispecer Parola: 
+[2022-01-14 12:51:19] qwe
+[2022-01-14 12:51:19] 
+[42mDispecer Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 12:51:26] auth
+[2022-01-14 12:51:26] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 12:51:37] qwe
+[2022-01-14 12:51:37] 
+[42mDispecer Parola: 
+[2022-01-14 12:51:39] qwe
+[2022-01-14 12:51:39] 
+[42mDispecer Utilizatorul este deja conectat! Reincearca [32mauth
+> 
+[2022-01-14 12:51:47] auth
+[2022-01-14 12:51:47] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 12:51:51] m
+[2022-01-14 12:51:51] 
+[42mDispecer Nume de utilizator inexistent! Reintrodu numele: 
+[2022-01-14 12:51:52] madalin
+[2022-01-14 12:51:52] 
+[42mDispecer Parola: 
+[2022-01-14 12:51:54] 0
+[2022-01-14 12:51:54] 
+[42mDispecer Parola nu corespunde acestui cont! Reintrodu parola: 
+[2022-01-14 12:51:58] 000
+[2022-01-14 12:51:58] 
+[42mDispecer Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 12:52:07] auth
+[2022-01-14 12:52:07] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 12:52:08] asd
+[2022-01-14 12:52:08] 
+[42mDispecer Parola: 
+[2022-01-14 12:52:09] asd
+[2022-01-14 12:52:09] 
+[42mDispecer Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 13:06:00] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 13:06:06] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 13:06:10] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 13:06:14] auth
+[2022-01-14 13:06:14] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 13:06:15] madalin
+[2022-01-14 13:06:15] 
+[42mDispecer Parola: 
+[2022-01-14 13:06:16] 000
+[2022-01-14 13:06:16] 
+[42mDispecer Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 13:06:18] auth
+[2022-01-14 13:06:18] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 13:06:19] qwe
+[2022-01-14 13:06:19] 
+[42mDispecer Parola: 
+[2022-01-14 13:06:19] qwe
+[2022-01-14 13:06:19] 
+[42mDispecer Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 13:06:21] auth
+[2022-01-14 13:06:21] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 13:06:22] asd
+[2022-01-14 13:06:22] 
+[42mDispecer Parola: 
+[2022-01-14 13:06:22] asd
+[2022-01-14 13:06:22] 
+[42mDispecer Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 13:11:13] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 13:11:15] auth
+[2022-01-14 13:11:15] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 13:11:16] madalin
+[2022-01-14 13:11:16] 
+[42mDispecer Parola: 
+[2022-01-14 13:11:17] 000
+[2022-01-14 13:11:17] 
+[42mDispecer Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 13:15:11] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 13:15:13] auth
+[2022-01-14 13:15:13] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 13:15:14] madalin
+[2022-01-14 13:15:14] 
+[42mDispecer Parola: 
+[2022-01-14 13:15:15] 000
+[2022-01-14 13:15:15] 
+[42mDispecer Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 13:16:34] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 13:16:36] auth
+[2022-01-14 13:16:36] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 13:16:37] madalin
+[2022-01-14 13:16:37] 
+[42mDispecer Parola: 
+[2022-01-14 13:16:38] 000
+[2022-01-14 13:16:38] 
+[42mDispecer Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 13:17:39] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 13:17:41] auth
+[2022-01-14 13:17:41] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 13:17:43] madalin
+[2022-01-14 13:17:43] 
+[42mDispecer Parola: 
+[2022-01-14 13:17:44] 000
+[2022-01-14 13:17:44] 
+[42mDispecer Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 13:21:45] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 13:21:47] auth
+[2022-01-14 13:21:47] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 13:21:48] madalin
+[2022-01-14 13:21:48] 
+[42mDispecer Parola: 
+[2022-01-14 13:21:48] 000
+[2022-01-14 13:21:48] 
+[42mDispecer Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 13:36:56] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 13:36:58] auth
+[2022-01-14 13:36:58] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 13:36:59] qwe
+[2022-01-14 13:36:59] 
+[42mDispecer Parola: 
+[2022-01-14 13:37:00] qwe
+[2022-01-14 13:37:00] 
+[42mDispecer Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 13:37:11] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 13:37:13] subcat
+[2022-01-14 13:37:13] 
+[42mDispecer Neautorizat! Trebuie sa te autentifici!
+> 
+[2022-01-14 13:37:16] auth
+[2022-01-14 13:37:16] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 13:37:27] asd
+[2022-01-14 13:37:27] 
+[42mDispecer Parola: 
+[2022-01-14 13:37:28] asd
+[2022-01-14 13:37:28] 
+[42mDispecer Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 14:23:13] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 14:23:16] auth
+[2022-01-14 14:23:16] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 14:23:18] madalin
+[2022-01-14 14:23:18] 
+[42mDispecer Parola: 
+[2022-01-14 14:23:18] 000
+[2022-01-14 14:23:18] 
+[42mDispecer Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 14:23:21] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 14:23:22] auth
+[2022-01-14 14:23:22] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 14:23:22] qwe
+[2022-01-14 14:23:22] 
+[42mDispecer Parola: 
+[2022-01-14 14:23:23] qwe
+[2022-01-14 14:23:23] 
+[42mDispecer Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 14:23:26] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 14:23:27] auth
+[2022-01-14 14:23:27] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 14:23:28] asd
+[2022-01-14 14:23:28] 
+[42mDispecer Parola: 
+[2022-01-14 14:23:28] asd
+[2022-01-14 14:23:28] 
+[42mDispecer Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 14:26:45] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 14:26:47] register
+[2022-01-14 14:26:47] 
+[42mDispecer Nume utilizator dorit: 
+[2022-01-14 14:26:48] asd
+[2022-01-14 14:26:48] 
+[42mDispecer Nume de utilizator existent! Introdu alt nume: 
+[2022-01-14 14:26:54] x
+[2022-01-14 14:26:54] 
+[42mDispecer 
+> 
+[2022-01-14 14:26:56] auth
+[2022-01-14 14:26:56] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 14:26:57] asd
+[2022-01-14 14:26:57] 
+[42mDispecer Parola: 
+[2022-01-14 14:26:57] asd
+[2022-01-14 14:26:57] 
+[42mDispecer Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 14:27:34] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 14:27:36] auth
+[2022-01-14 14:27:36] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 14:27:37] asd
+[2022-01-14 14:27:37] 
+[42mDispecer Parola: 
+[2022-01-14 14:27:37] asd
+[2022-01-14 14:27:37] 
+[42mDispecer Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 14:27:52] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 14:27:57] auth
+[2022-01-14 14:27:57] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 14:27:57] asd
+[2022-01-14 14:27:57] 
+[42mDispecer Parola: 
+[2022-01-14 14:27:58] asd
+[2022-01-14 14:27:58] 
+[42mDispecer Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 14:28:05] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 14:28:08] auth
+[2022-01-14 14:28:08] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 14:28:09] asd
+[2022-01-14 14:28:09] 
+[42mDispecer Parola: 
+[2022-01-14 14:28:10] asd
+[2022-01-14 14:28:10] 
+[42mDispecer Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 14:29:01] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 14:29:03] auth
+[2022-01-14 14:29:03] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 14:29:05] madalin
+[2022-01-14 14:29:05] 
+[42mDispecer Parola: 
+[2022-01-14 14:29:05] 000
+[2022-01-14 14:29:05] 
+[42mDispecer Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 14:53:27] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 14:53:30] auth
+[2022-01-14 14:53:30] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 14:53:31] qwe
+[2022-01-14 14:53:31] 
+[42mDispecer Parola: 
+[2022-01-14 14:53:31] qwe
+[2022-01-14 14:53:31] 
+[42mDispecer Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 15:03:17] 
+[42mDispecer Bun venit!
+Pentru înregistrare trimite [32mregister
+Pentru autentificare trimite [32mauth
+> 
+[2022-01-14 15:03:20] auth
+[2022-01-14 15:03:20] 
+[42mDispecer Nume utilizator: 
+[2022-01-14 15:03:21] madalin
+[2022-01-14 15:03:21] 
+[42mDispecer Parola: 
+[2022-01-14 15:03:22] 000
+[2022-01-14 15:03:22] 
+[42mDispecer Te-ai autentificat cu succes, madalin!
+> 

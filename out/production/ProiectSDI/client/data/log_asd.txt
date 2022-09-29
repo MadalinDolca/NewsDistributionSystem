@@ -1,0 +1,179 @@
+[2022-01-14 12:51:02] 
+[42mDispecer Utilizatorul qwe s-a deconectat!
+> 
+[2022-01-14 13:01:13] Nu se mai primesc mesaje!
+[2022-01-14 13:06:35] 
+[42mDispecer Utilizatorul qwe s-a deconectat!
+> 
+[2022-01-14 13:06:48] Nu se mai primesc mesaje!
+[2022-01-14 13:37:46] subcat
+[2022-01-14 13:37:46] 
+[42mDispecer Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:37:49] gaming
+[2022-01-14 13:37:49] 
+[42mDispecer Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:48:23] listcat
+[2022-01-14 13:48:23] 
+[42mDispecer Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: gaming | 
+> 
+[2022-01-14 13:57:05] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 13:58:08] listcat
+[2022-01-14 13:58:08] 
+[42mDispecer Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: gaming | 
+> 
+[2022-01-14 13:58:22] subcat
+[2022-01-14 13:58:22] 
+[42mDispecer Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:58:24] muzica
+[2022-01-14 13:58:24] 
+[42mDispecer Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:58:37] Marshmello a lansat o melodie noua!
+[2022-01-14 13:58:37] 
+[42mDispecer Comanda inexistenta! Incearca comanda[32m help
+> 
+[2022-01-14 13:58:42] addmes
+[2022-01-14 13:58:42] 
+[42mDispecer Introdu categoria: 
+[2022-01-14 13:58:44] muzica
+[2022-01-14 13:58:44] 
+[42mDispecer Introdu mesajul: 
+[2022-01-14 13:58:45] Marshmello a lansat o melodie noua!
+[2022-01-14 13:58:45] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:22:21] Lista mesajelor stocate (2 mesaje)
+[2022-01-14 14:22:21] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:22:21] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 14:22:26] unsubcat
+[2022-01-14 14:22:26] 
+[42mDispecer Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:22:31] muzica
+[2022-01-14 14:22:31] 
+[42mDispecer Te-ai dezabonat de la categoria muzica
+[2022-01-14 14:22:31] Mesajele din categoria muzica au fost sterse!
+> 
+[2022-01-14 14:22:33] unsubcat
+[2022-01-14 14:22:33] 
+[42mDispecer Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:22:35] gaming
+[2022-01-14 14:22:35] 
+[42mDispecer Te-ai dezabonat de la categoria gaming
+[2022-01-14 14:22:35] Mesajele din categoria gaming au fost sterse!
+> 
+[2022-01-14 14:22:46] unsubcat
+[2022-01-14 14:22:46] 
+[42mDispecer Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:22:49] 
+[2022-01-14 14:22:49] 
+[42mDispecer Nu esti abonat la aceasta categorie! Introdu alta categorie: 
+[2022-01-14 14:22:50] x
+[2022-01-14 14:22:50] 
+[42mDispecer 
+> 
+[2022-01-14 14:22:53] listcat
+[2022-01-14 14:22:53] 
+[42mDispecer Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: 
+> 
+[2022-01-14 14:22:56] unsubcat
+[2022-01-14 14:22:56] 
+[42mDispecer Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:23:31] listcat
+[2022-01-14 14:23:31] 
+[42mDispecer Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: 
+> 
+[2022-01-14 14:23:35] unsubcat
+[2022-01-14 14:23:35] 
+[42mDispecer Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:26:24] x
+[2022-01-14 14:26:24] 
+[42mDispecer 
+> 
+[2022-01-14 14:26:26] unsubcat
+[2022-01-14 14:26:26] 
+[42mDispecer Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:26:37] Nu se mai primesc mesaje!
+[2022-01-14 14:27:05] unsubcat
+[2022-01-14 14:27:05] 
+[42mDispecer Nu esti abonat la nici o categorie! Trimite subcat pentru abonare
+> 
+[2022-01-14 14:27:41] listsub
+[2022-01-14 14:27:41] 
+[42mDispecer Comanda inexistenta! Incearca comanda[32m help
+> 
+[2022-01-14 14:28:00] listsub
+[2022-01-14 14:28:00] 
+[42mDispecer Comanda inexistenta! Incearca comanda[32m help
+> 
+[2022-01-14 14:28:12] listcat
+[2022-01-14 14:28:12] 
+[42mDispecer Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: 
+> 
+[2022-01-14 14:28:15] unsubcat
+[2022-01-14 14:28:15] 
+[42mDispecer Nu esti abonat la nici o categorie! Trimite subcat pentru abonare
+> 
+[2022-01-14 14:29:05] 
+[42mDispecer Utilizatorul madalin s-a [32mconectat!
+> 
+[2022-01-14 14:53:31] 
+[42mDispecer Utilizatorul qwe s-a [32mconectat!
+> 
+[2022-01-14 14:53:38] Lista mesajelor stocate (0 mesaje)
+[2022-01-14 14:53:45] listcat
+[2022-01-14 14:53:45] 
+[42mDispecer Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: 
+> 
+[2022-01-14 14:55:04] subcat
+[2022-01-14 14:55:04] 
+[42mDispecer Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 15:01:07] 
+[42mDispecer Utilizatorul madalin s-a deconectat!
+> 
+[2022-01-14 15:01:20] gaming
+[2022-01-14 15:01:20] 
+[42mDispecer Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 15:01:22] addmes
+[2022-01-14 15:01:22] 
+[42mDispecer Introdu categoria: 
+[2022-01-14 15:01:33] gaming
+[2022-01-14 15:01:33] 
+[42mDispecer Introdu mesajul: 
+[2022-01-14 15:01:43] Am GTA V de pe Epic
+[2022-01-14 15:01:43] 
+gaming Trimis de: asd | Hash: b4791e7845a486f33bdd5c3573974930
+Mesaj: Am GTA V de pe Epic
+[2022-01-14 15:02:02] addmes
+[2022-01-14 15:02:02] 
+[42mDispecer Introdu categoria: 
+[2022-01-14 15:02:03] gaming
+[2022-01-14 15:02:03] 
+[42mDispecer Introdu mesajul: 
+[2022-01-14 15:02:27] Si Among Us tot de acolo
+[2022-01-14 15:02:27] 
+gaming Trimis de: asd | Hash: 11436f8f5ea4f2cc8c2ddec8eb1366e6
+Mesaj: Si Among Us tot de acolo
+[2022-01-14 15:03:06] 
+gaming Trimis de: qwe | Hash: bf3312b3dbfe26958f241d2a77eb8e18
+Mesaj: Si eu le am tot de acolo
+[2022-01-14 15:03:22] 
+[42mDispecer Utilizatorul madalin s-a [32mconectat!
+> 
+[2022-01-14 15:04:04] Ai primit o solicitare de mesaje de la madalin pentru categoria gaming
+[2022-01-14 15:04:04] Ai raspuns solicitarii lui madalin pentru categoria gaming cu 3 mesaje
+> 
+[2022-01-14 15:39:35] Nu se mai primesc mesaje!

@@ -1,0 +1,520 @@
+[2022-01-14 12:47:56] 
+[42mDispecer Utilizatorul qwe s-a [32mconectat!
+> 
+[2022-01-14 12:52:09] 
+[42mDispecer Utilizatorul asd s-a [32mconectat!
+> 
+[2022-01-14 13:00:47] online
+[2022-01-14 13:00:47] 
+[42mDispecer Lista utilizatorilor conectati: qwe | madalin | asd | 
+> 
+[2022-01-14 13:01:13] 
+[42mDispecer Utilizatorul asd s-a deconectat!
+> 
+[2022-01-14 13:01:17] online
+[2022-01-14 13:01:17] 
+[42mDispecer Lista utilizatorilor conectati: qwe | madalin | 
+> 
+[2022-01-14 13:01:31] 
+[42mDispecer Utilizatorul qwe s-a deconectat!
+> 
+[2022-01-14 13:01:37] online
+[2022-01-14 13:01:37] 
+[42mDispecer Lista utilizatorilor conectati: madalin | 
+> 
+[2022-01-14 13:05:37] Lista mesajelor stocate (0 mesaje)
+[2022-01-14 13:05:39] d
+[2022-01-14 13:05:39] 
+[42mDispecer Comanda inexistenta! Incearca comanda[32m help
+> 
+[2022-01-14 13:06:19] 
+[42mDispecer Utilizatorul qwe s-a [32mconectat!
+> 
+[2022-01-14 13:06:22] 
+[42mDispecer Utilizatorul asd s-a [32mconectat!
+> 
+[2022-01-14 13:06:35] 
+[42mDispecer Utilizatorul qwe s-a deconectat!
+> 
+[2022-01-14 13:06:48] Nu se mai primesc mesaje!
+[2022-01-14 13:11:28] addcat
+[2022-01-14 13:11:28] 
+[42mDispecer Introdu numele categoriei: 
+[2022-01-14 13:11:36] muzica
+[2022-01-14 13:11:36] 
+[42mDispecer Categoria a fost adaugata! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:11:39] addcat
+[2022-01-14 13:11:39] 
+[42mDispecer Introdu numele categoriei: 
+[2022-01-14 13:11:41] muzica
+[2022-01-14 13:11:41] 
+[42mDispecer Categoria a fost adaugata! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:12:21] addcat
+[2022-01-14 13:12:21] 
+[42mDispecer Introdu numele categoriei: 
+[2022-01-14 13:12:23] muzica
+[2022-01-14 13:12:23] 
+[42mDispecer Categoria a fost adaugata! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:15:06] Nu se mai primesc mesaje!
+[2022-01-14 13:15:16] addcat
+[2022-01-14 13:15:16] 
+[42mDispecer Introdu numele categoriei: 
+[2022-01-14 13:15:17] muzica
+[2022-01-14 13:15:17] 
+[42mDispecer Categoria a fost adaugata! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:15:21] listcat
+[2022-01-14 13:15:21] 
+[42mDispecer Lista categoriilor: muzica | muzica | muzica | muzica | 
+Lista categoriilor la care te-ai abonat: 
+> 
+[2022-01-14 13:16:28] Nu se mai primesc mesaje!
+[2022-01-14 13:17:13] addcat
+[2022-01-14 13:17:13] 
+[42mDispecer Introdu numele categoriei: 
+[2022-01-14 13:17:18] muzica
+[2022-01-14 13:17:18] 
+[42mDispecer Categoria a fost adaugata! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:17:25] listcat
+[2022-01-14 13:17:25] 
+[42mDispecer Lista categoriilor: muzica | 
+Lista categoriilor la care te-ai abonat: 
+> 
+[2022-01-14 13:17:29] addcat
+[2022-01-14 13:17:29] 
+[42mDispecer Introdu numele categoriei: 
+[2022-01-14 13:17:31] muzica
+[2022-01-14 13:17:31] 
+[42mDispecer Aceasta categorie exista deja! Introdu alta categorie: 
+[2022-01-14 13:17:46] addcat
+[2022-01-14 13:17:46] 
+[42mDispecer Introdu numele categoriei: 
+[2022-01-14 13:20:14] muz
+[2022-01-14 13:20:14] 
+[42mDispecer Categoria a fost adaugata! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:20:45] addcat
+[2022-01-14 13:20:45] 
+[42mDispecer Introdu numele categoriei: 
+[2022-01-14 13:20:48] mu
+[2022-01-14 13:20:48] 
+[42mDispecer Numele categoriei este prea scurt! (min 3 caractere) Reintrodu numele: 
+[2022-01-14 13:20:53] muzica
+[2022-01-14 13:20:53] 
+[42mDispecer Aceasta categorie exista deja! Introdu alta categorie: 
+[2022-01-14 13:21:02] sport
+[2022-01-14 13:21:02] 
+[42mDispecer Categoria a fost adaugata! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:21:13] addcat
+[2022-01-14 13:21:13] 
+[42mDispecer Introdu numele categoriei: 
+[2022-01-14 13:21:16] gaming
+[2022-01-14 13:21:16] 
+[42mDispecer Categoria a fost adaugata! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:21:50] addcat
+[2022-01-14 13:21:50] 
+[42mDispecer Introdu numele categoriei: 
+[2022-01-14 13:21:54] mu
+[2022-01-14 13:21:54] 
+[42mDispecer Numele categoriei este prea scurt! (min 3 caractere) Reintrodu numele: 
+[2022-01-14 13:21:57] muzica
+[2022-01-14 13:21:57] 
+[42mDispecer Categoria a fost adaugata! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:21:59] addcat
+[2022-01-14 13:21:59] 
+[42mDispecer Introdu numele categoriei: 
+[2022-01-14 13:22:04] sport
+[2022-01-14 13:22:04] 
+[42mDispecer Categoria a fost adaugata! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:22:06] addcat
+[2022-01-14 13:22:06] 
+[42mDispecer Introdu numele categoriei: 
+[2022-01-14 13:22:08] gaming
+[2022-01-14 13:22:08] 
+[42mDispecer Categoria a fost adaugata! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:33:52] subcat
+[2022-01-14 13:33:52] 
+[42mDispecer Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:33:55] muzica
+[2022-01-14 13:33:55] 
+[42mDispecer Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:33:58] subcat
+[2022-01-14 13:33:58] 
+[42mDispecer Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:34:03] muzica
+[2022-01-14 13:34:03] 
+[42mDispecer Esti deja abonat la aceasta categorie! Introdu alta categorie: 
+[2022-01-14 13:34:08] gaming
+[2022-01-14 13:34:08] 
+[42mDispecer Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:34:11] listcat
+[2022-01-14 13:34:11] 
+[42mDispecer Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: muzica | gaming | 
+> 
+[2022-01-14 13:37:00] 
+[42mDispecer Utilizatorul qwe s-a [32mconectat!
+> 
+[2022-01-14 13:37:28] 
+[42mDispecer Utilizatorul asd s-a [32mconectat!
+> 
+[2022-01-14 13:38:12] usersub
+[2022-01-14 13:38:12] 
+[42mDispecer Introdu numele utilizatorului: 
+[2022-01-14 13:38:16] q
+[2022-01-14 13:38:16] 
+[42mDispecer Acest utilizator nu exista! Trimite alt nume: 
+[2022-01-14 13:38:18] qwe
+[2022-01-14 13:38:18] 
+[42mDispecer Abonamentele utilizatorului qwe: muzica | sport | 
+> 
+[2022-01-14 13:38:21] usersub
+[2022-01-14 13:38:21] 
+[42mDispecer Introdu numele utilizatorului: 
+[2022-01-14 13:38:28] asd
+[2022-01-14 13:38:28] 
+[42mDispecer Abonamentele utilizatorului asd: gaming | 
+> 
+[2022-01-14 13:47:21] listcat
+[2022-01-14 13:47:21] 
+[42mDispecer Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: muzica | gaming | 
+> 
+[2022-01-14 13:47:24] addmes
+[2022-01-14 13:47:24] 
+[42mDispecer Introdu categoria: 
+[2022-01-14 13:47:37] desen
+[2022-01-14 13:47:37] 
+[42mDispecer Aceasta categorie nu exista! Introdu alta categorie: 
+[2022-01-14 13:47:44] sport
+[2022-01-14 13:47:44] 
+[42mDispecer Nu esti abonat la aceasta categorie! Introdu alta categorie: 
+[2022-01-14 13:47:49] muzica
+[2022-01-14 13:47:49] 
+[42mDispecer Introdu mesajul: 
+[2022-01-14 13:47:58] m
+[2022-01-14 13:47:58] 
+[42mDispecer Mesajul este prea scurt! Minim 3 caractere. Reintrodu mesajul: 
+[2022-01-14 13:48:27] Mesaj din categoria muzica
+[2022-01-14 13:48:28] 
+muzica Trimis de: madalin | Hash: 50adb92f51485d7bb21c1ea3b3b0881b
+Mesaj: Mesaj din categoria muzica
+[2022-01-14 13:49:18] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 13:56:47] Lista mesajelor stocate (2 mesaje)
+[2022-01-14 13:56:47] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 13:56:47] 
+muzica Trimis de: madalin | Hash: 50adb92f51485d7bb21c1ea3b3b0881b
+Mesaj: Mesaj din categoria muzica
+[2022-01-14 13:56:53] addmes
+[2022-01-14 13:56:53] 
+[42mDispecer Introdu categoria: 
+[2022-01-14 13:56:54] gaming
+[2022-01-14 13:56:54] 
+[42mDispecer Introdu mesajul: 
+[2022-01-14 13:57:05] Jocuri gratis pe EpicGames
+[2022-01-14 13:57:05] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 13:57:14] Lista mesajelor stocate (3 mesaje)
+[2022-01-14 13:57:14] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 13:57:14] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 13:57:14] 
+muzica Trimis de: madalin | Hash: 50adb92f51485d7bb21c1ea3b3b0881b
+Mesaj: Mesaj din categoria muzica
+[2022-01-14 13:57:19] Lista mesajelor stocate (3 mesaje)
+[2022-01-14 13:57:19] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 13:57:19] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 13:57:19] 
+muzica Trimis de: madalin | Hash: 50adb92f51485d7bb21c1ea3b3b0881b
+Mesaj: Mesaj din categoria muzica
+[2022-01-14 13:58:45] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 13:58:53] Lista mesajelor stocate (4 mesaje)
+[2022-01-14 13:58:53] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 13:58:53] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 13:58:53] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 13:58:53] 
+muzica Trimis de: madalin | Hash: 50adb92f51485d7bb21c1ea3b3b0881b
+Mesaj: Mesaj din categoria muzica
+[2022-01-14 13:58:57] listcat
+[2022-01-14 13:58:57] 
+[42mDispecer Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: muzica | gaming | 
+> 
+[2022-01-14 13:59:06] subcat
+[2022-01-14 13:59:06] 
+[42mDispecer Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:59:08] sport
+[2022-01-14 13:59:08] 
+[42mDispecer Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite [32mlistcat
+> 
+[2022-01-14 13:59:12] addmes
+[2022-01-14 13:59:12] 
+[42mDispecer Introdu categoria: 
+[2022-01-14 13:59:13] sport
+[2022-01-14 13:59:13] 
+[42mDispecer Introdu mesajul: 
+[2022-01-14 14:00:25] Dinamo 8:1 Real Madrid. That's a fact :D
+[2022-01-14 14:00:25] 
+sport Trimis de: madalin | Hash: 899adfa1bb0ac683ae3b7a4367db80b1
+Mesaj: Dinamo 8:1 Real Madrid. That's a fact :D
+[2022-01-14 14:00:27] Lista mesajelor stocate (5 mesaje)
+[2022-01-14 14:00:27] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:00:27] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 14:00:27] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 14:00:27] 
+muzica Trimis de: madalin | Hash: 50adb92f51485d7bb21c1ea3b3b0881b
+Mesaj: Mesaj din categoria muzica
+[2022-01-14 14:00:27] 
+sport Trimis de: madalin | Hash: 899adfa1bb0ac683ae3b7a4367db80b1
+Mesaj: Dinamo 8:1 Real Madrid. That's a fact :D
+[2022-01-14 14:04:02] Introdu hash-ul mesajului: 
+[2022-01-14 14:04:11] Acest mesaj nu este stocat! Introdu alt hash: 
+[2022-01-14 14:04:17] Introdu noul continut: 
+[2022-01-14 14:04:30] Mesajul 899adfa1bb0ac683ae3b7a4367db80b1 a fost editat!
+> 
+[2022-01-14 14:04:49] Lista mesajelor stocate (5 mesaje)
+[2022-01-14 14:04:49] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:04:49] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 14:04:49] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 14:04:49] 
+muzica Trimis de: madalin | Hash: 50adb92f51485d7bb21c1ea3b3b0881b
+Mesaj: Mesaj din categoria muzica
+[2022-01-14 14:04:49] 
+sport Trimis de: madalin | Hash: 899adfa1bb0ac683ae3b7a4367db80b1
+Mesaj: Am glumit
+[2022-01-14 14:09:31] Introdu hash-ul mesajului: 
+[2022-01-14 14:09:35] Acest mesaj nu este stocat! Introdu alt hash: 
+[2022-01-14 14:10:14] Mesajul 50adb92f51485d7bb21c1ea3b3b0881b a fost sters!
+> 
+[2022-01-14 14:10:18] Lista mesajelor stocate (4 mesaje)
+[2022-01-14 14:10:18] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:10:18] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 14:10:18] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 14:10:18] 
+sport Trimis de: madalin | Hash: 899adfa1bb0ac683ae3b7a4367db80b1
+Mesaj: Am glumit
+[2022-01-14 14:15:24] Introdu hash-ul mesajului: 
+[2022-01-14 14:15:31] Acest mesaj nu este stocat! Introdu alt hash: 
+[2022-01-14 14:15:36] Introdu numarul de secunde: 
+[2022-01-14 14:15:40] Nu ai introdus un numar! Introdu numarul de secunde: 
+[2022-01-14 14:15:43] Mesajul 899adfa1bb0ac683ae3b7a4367db80b1 se va sterge in 30s
+> 
+[2022-01-14 14:15:49] online
+[2022-01-14 14:15:49] 
+[42mDispecer Lista utilizatorilor conectati: madalin | qwe | asd | 
+> 
+[2022-01-14 14:15:54] listcat
+[2022-01-14 14:15:54] 
+[42mDispecer Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: muzica | gaming | sport | 
+> 
+[2022-01-14 14:16:14] Mesajul 899adfa1bb0ac683ae3b7a4367db80b1 a fost sters automat!
+> 
+[2022-01-14 14:16:18] Lista mesajelor stocate (3 mesaje)
+[2022-01-14 14:16:18] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:16:18] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 14:16:18] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 14:23:05] 
+[42mDispecer Utilizatorul asd s-a deconectat!
+> 
+[2022-01-14 14:23:06] 
+[42mDispecer Utilizatorul qwe s-a deconectat!
+> 
+[2022-01-14 14:23:23] 
+[42mDispecer Utilizatorul qwe s-a [32mconectat!
+> 
+[2022-01-14 14:23:28] 
+[42mDispecer Utilizatorul asd s-a [32mconectat!
+> 
+[2022-01-14 14:26:37] Nu se mai primesc mesaje!
+[2022-01-14 14:29:07] Lista mesajelor stocate (3 mesaje)
+[2022-01-14 14:29:07] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:29:07] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 14:29:07] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 14:29:52] Lista mesajelor stocate (3 mesaje)
+[2022-01-14 14:29:52] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:29:52] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 14:29:52] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 14:30:02] unsubcat
+[2022-01-14 14:30:02] 
+[42mDispecer Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:30:23] sport
+[2022-01-14 14:30:23] 
+[42mDispecer Te-ai dezabonat de la categoria sport
+[2022-01-14 14:30:23] Mesajele din categoria sport au fost sterse!
+> 
+[2022-01-14 14:30:36] listcat
+[2022-01-14 14:30:36] 
+[42mDispecer Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: muzica | gaming | 
+> 
+[2022-01-14 14:30:41] Lista mesajelor stocate (3 mesaje)
+[2022-01-14 14:30:41] 
+muzica Trimis de: asd | Hash: 7dc9889414b3ca722f961ff12f1335a5
+Mesaj: Marshmello a lansat o melodie noua!
+[2022-01-14 14:30:41] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 14:30:41] 
+muzica Trimis de: qwe | Hash: f234d7d3be01a2d4fe321fbc849e15b1
+Mesaj: Si eu trimis un mesaj in muzica
+[2022-01-14 14:30:46] unsubcat
+[2022-01-14 14:30:46] 
+[42mDispecer Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:30:48] sport
+[2022-01-14 14:30:48] 
+[42mDispecer Nu esti abonat la aceasta categorie! Introdu alta categorie: 
+[2022-01-14 14:30:54] muzica
+[2022-01-14 14:30:54] 
+[42mDispecer Te-ai dezabonat de la categoria muzica
+[2022-01-14 14:30:54] Mesajele din categoria muzica au fost sterse!
+> 
+[2022-01-14 14:30:59] Lista mesajelor stocate (1 mesaje)
+[2022-01-14 14:30:59] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 14:36:28] help
+[2022-01-14 14:36:28] 
+[42mDispecer Lista comenzilor:
+[32mregister   Inregistrare cont nou
+[32mauth       Autentificare in sistem
+
+online     Afisare utilizatori online
+usersub    Afiseaza abonamentele unui utilizator
+
+[32mlistcat    Afisare lista categorii si abonamente
+[32maddcat     Adaugare categorie noua
+[32msubcat     Abonare la o categorie
+[32munsubcat   Dezabonare categorie si stergere mesaje aferente
+[32mgetnews    Solicita mesaje dintr-o categorie de la ceilalti clienti
+
+listmes    Afisare mesaje stocate (Client)
+addmes     Adaugare mesaj (Server + Client)
+delmes     Stergere mesaj stocat (Client)
+autodelmes Stergere mesaj stocat dupa o anumita perioada de timp (Client)
+editmes    Editare mesaj stocat (Client)
+
+x          Anulare request
+bye        Iesire din sistem (Client)
+> 
+[2022-01-14 14:53:21] listcat
+[2022-01-14 14:53:21] 
+[42mDispecer Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: gaming | 
+> 
+[2022-01-14 14:53:31] 
+[42mDispecer Utilizatorul qwe s-a [32mconectat!
+> 
+[2022-01-14 14:54:12] Lista mesajelor stocate (1 mesaje)
+[2022-01-14 14:54:12] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 15:01:07] Conexiunea a fost inchisa!
+[2022-01-14 15:01:07] Nu se mai primesc mesaje!
+[2022-01-14 15:03:31] Lista mesajelor stocate (1 mesaje)
+[2022-01-14 15:03:31] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 15:03:36] getnews
+[2022-01-14 15:03:36] 
+[42mDispecer Introdu numele categoriei: 
+[2022-01-14 15:03:52] ceva
+[2022-01-14 15:03:52] 
+[42mDispecer Nu esti abonat la aceasta categorie! Introdu alta categorie: 
+[2022-01-14 15:04:04] gaming
+[2022-01-14 15:04:04] 
+[42mDispecer S-a trimis solicitarea ta celorlalti utilizatori conectati pentru categoria gaming
+> 
+[2022-01-14 15:04:04] 
+gaming Trimis de: qwe | Hash: bf3312b3dbfe26958f241d2a77eb8e18
+Mesaj: Si eu le am tot de acolo
+[2022-01-14 15:04:04] 
+gaming Trimis de: asd | Hash: bf3312b3dbfe26958f241d2a77eb8e18
+Mesaj: Si eu le am tot de acolo
+[2022-01-14 15:04:04] 
+gaming Trimis de: asd | Hash: 11436f8f5ea4f2cc8c2ddec8eb1366e6
+Mesaj: Si Among Us tot de acolo
+[2022-01-14 15:04:04] 
+gaming Trimis de: asd | Hash: b4791e7845a486f33bdd5c3573974930
+Mesaj: Am GTA V de pe Epic
+[2022-01-14 15:04:48] Lista mesajelor stocate (4 mesaje)
+[2022-01-14 15:04:48] 
+gaming Trimis de: madalin | Hash: 4745c7c0940bc54cea6126f85d43a517
+Mesaj: Jocuri gratis pe EpicGames
+[2022-01-14 15:04:48] 
+gaming Trimis de: asd | Hash: bf3312b3dbfe26958f241d2a77eb8e18
+Mesaj: Si eu le am tot de acolo
+[2022-01-14 15:04:48] 
+gaming Trimis de: asd | Hash: 11436f8f5ea4f2cc8c2ddec8eb1366e6
+Mesaj: Si Among Us tot de acolo
+[2022-01-14 15:04:48] 
+gaming Trimis de: asd | Hash: b4791e7845a486f33bdd5c3573974930
+Mesaj: Am GTA V de pe Epic
+[2022-01-14 15:39:35] Nu se mai primesc mesaje!

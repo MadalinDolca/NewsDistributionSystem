@@ -1,0 +1,858 @@
+[2022-01-14 12:39:21] Catre /127.0.0.1:61912: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 12:39:48] De la /127.0.0.1:61912: register
+[2022-01-14 12:39:48] Catre /127.0.0.1:61912: Nume utilizator dorit: 
+[2022-01-14 12:39:48] De la /127.0.0.1:61912: 
+[2022-01-14 12:39:48] Catre /127.0.0.1:61912: Parola dorita: 
+[2022-01-14 12:39:49] De la /127.0.0.1:61912: 
+[2022-01-14 12:39:49] Catre /127.0.0.1:61912: Parola este prea scurta! (min 2) Introdu alta parola: 
+[2022-01-14 12:39:52] De la /127.0.0.1:61912: x
+[2022-01-14 12:39:52] Catre /127.0.0.1:61912: 
+> 
+[2022-01-14 12:39:56] De la /127.0.0.1:61912: register
+[2022-01-14 12:39:56] Catre /127.0.0.1:61912: Nume utilizator dorit: 
+[2022-01-14 12:40:00] De la /127.0.0.1:61912: madalin
+[2022-01-14 12:40:00] Catre /127.0.0.1:61912: Parola dorita: 
+[2022-01-14 12:40:03] De la /127.0.0.1:61912: 000
+[2022-01-14 12:40:03] Catre /127.0.0.1:61912: Cont creat cu succes! Pentru autentificare trimite auth
+> 
+[2022-01-14 12:40:16] Catre /127.0.0.1:61914: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 12:40:32] Catre /127.0.0.1:61915: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 12:40:36] De la /127.0.0.1:61915: register
+[2022-01-14 12:40:36] Catre /127.0.0.1:61915: Nume utilizator dorit: 
+[2022-01-14 12:40:39] De la /127.0.0.1:61915: madalin
+[2022-01-14 12:40:39] Catre /127.0.0.1:61915: Nume de utilizator existent! Introdu alt nume: 
+[2022-01-14 12:40:46] De la /127.0.0.1:61915: qwe
+[2022-01-14 12:40:46] Catre /127.0.0.1:61915: Parola dorita: 
+[2022-01-14 12:40:49] De la /127.0.0.1:61915: q
+[2022-01-14 12:40:49] Catre /127.0.0.1:61915: Parola este prea scurta! (min 2) Introdu alta parola: 
+[2022-01-14 12:40:54] De la /127.0.0.1:61915: qwe
+[2022-01-14 12:40:54] Catre /127.0.0.1:61915: Cont creat cu succes! Pentru autentificare trimite auth
+> 
+[2022-01-14 12:47:17] Catre /127.0.0.1:61922: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 12:47:19] De la /127.0.0.1:61922: auth
+[2022-01-14 12:47:19] Catre /127.0.0.1:61922: Nume utilizator: 
+[2022-01-14 12:47:21] De la /127.0.0.1:61922: madalin
+[2022-01-14 12:47:21] Catre /127.0.0.1:61922: Parola: 
+[2022-01-14 12:47:23] De la /127.0.0.1:61922: 000
+[2022-01-14 12:47:23] Catre /127.0.0.1:61922: Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 12:47:23] Catre madalin: 1dCl13nt~madalin
+[2022-01-14 12:47:31] De la /127.0.0.1:61915: auth
+[2022-01-14 12:47:31] Catre /127.0.0.1:61915: Nume utilizator: 
+[2022-01-14 12:47:45] De la /127.0.0.1:61915: 
+[2022-01-14 12:47:45] Catre /127.0.0.1:61915: Nu ai introdus nici un nume! Reintrodu numele: 
+[2022-01-14 12:47:47] De la /127.0.0.1:61915: q
+[2022-01-14 12:47:47] Catre /127.0.0.1:61915: Nume de utilizator inexistent! Reintrodu numele: 
+[2022-01-14 12:47:49] De la /127.0.0.1:61915: qwe
+[2022-01-14 12:47:49] Catre /127.0.0.1:61915: Parola: 
+[2022-01-14 12:47:51] De la /127.0.0.1:61915: q
+[2022-01-14 12:47:51] Catre /127.0.0.1:61915: Parola nu corespunde acestui cont! Reintrodu parola: 
+[2022-01-14 12:47:56] De la /127.0.0.1:61915: qwe
+[2022-01-14 12:47:56] Catre /127.0.0.1:61915: Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 12:47:56] Catre qwe: 1dCl13nt~qwe
+[2022-01-14 12:47:56] Catre madalin: Utilizatorul qwe s-a conectat!
+> 
+[2022-01-14 12:49:16] Catre qwe: Utilizatorul madalin s-a deconectat!
+> 
+[2022-01-14 12:49:27] Catre /127.0.0.1:61926: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 12:49:32] Catre /127.0.0.1:61927: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 12:49:34] Catre /127.0.0.1:61928: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 12:49:46] De la /127.0.0.1:61927: auth
+[2022-01-14 12:49:46] Catre /127.0.0.1:61927: Nume utilizator: 
+[2022-01-14 12:49:50] De la /127.0.0.1:61927: qwe
+[2022-01-14 12:49:50] Catre /127.0.0.1:61927: Parola: 
+[2022-01-14 12:49:51] De la /127.0.0.1:61927: qwe
+[2022-01-14 12:49:51] Catre /127.0.0.1:61927: Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 12:49:51] Catre qwe: 1dCl13nt~qwe
+[2022-01-14 12:49:56] De la /127.0.0.1:61928: auth
+[2022-01-14 12:49:56] Catre /127.0.0.1:61928: Nume utilizator: 
+[2022-01-14 12:50:35] De la /127.0.0.1:61928: asd
+[2022-01-14 12:50:35] Catre /127.0.0.1:61928: Nume de utilizator inexistent! Reintrodu numele: 
+[2022-01-14 12:50:40] De la /127.0.0.1:61928: x
+[2022-01-14 12:50:40] Catre /127.0.0.1:61928: 
+> 
+[2022-01-14 12:50:51] De la /127.0.0.1:61928: auth
+[2022-01-14 12:50:51] Catre /127.0.0.1:61928: Nume utilizator: 
+[2022-01-14 12:50:53] De la /127.0.0.1:61928: asd
+[2022-01-14 12:50:53] Catre /127.0.0.1:61928: Parola: 
+[2022-01-14 12:50:57] De la /127.0.0.1:61928: asd
+[2022-01-14 12:50:57] Catre /127.0.0.1:61928: Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 12:50:57] Catre asd: 1dCl13nt~asd
+[2022-01-14 12:50:57] Catre qwe: Utilizatorul asd s-a conectat!
+> 
+[2022-01-14 12:51:02] Catre asd: Utilizatorul qwe s-a deconectat!
+> 
+[2022-01-14 12:51:05] Catre /127.0.0.1:61930: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 12:51:06] Catre /127.0.0.1:61931: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 12:51:07] Catre /127.0.0.1:61932: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 12:51:18] De la /127.0.0.1:61930: auth
+[2022-01-14 12:51:18] Catre /127.0.0.1:61930: Nume utilizator: 
+[2022-01-14 12:51:19] De la /127.0.0.1:61930: qwe
+[2022-01-14 12:51:19] Catre /127.0.0.1:61930: Parola: 
+[2022-01-14 12:51:19] De la /127.0.0.1:61930: qwe
+[2022-01-14 12:51:19] Catre /127.0.0.1:61930: Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 12:51:19] Catre qwe: 1dCl13nt~qwe
+[2022-01-14 12:51:26] De la /127.0.0.1:61932: auth
+[2022-01-14 12:51:26] Catre /127.0.0.1:61932: Nume utilizator: 
+[2022-01-14 12:51:37] De la /127.0.0.1:61932: qwe
+[2022-01-14 12:51:37] Catre /127.0.0.1:61932: Parola: 
+[2022-01-14 12:51:39] De la /127.0.0.1:61932: qwe
+[2022-01-14 12:51:39] Catre /127.0.0.1:61932: Utilizatorul este deja conectat! Reincearca auth
+> 
+[2022-01-14 12:51:47] De la /127.0.0.1:61932: auth
+[2022-01-14 12:51:47] Catre /127.0.0.1:61932: Nume utilizator: 
+[2022-01-14 12:51:51] De la /127.0.0.1:61932: m
+[2022-01-14 12:51:51] Catre /127.0.0.1:61932: Nume de utilizator inexistent! Reintrodu numele: 
+[2022-01-14 12:51:52] De la /127.0.0.1:61932: madalin
+[2022-01-14 12:51:52] Catre /127.0.0.1:61932: Parola: 
+[2022-01-14 12:51:54] De la /127.0.0.1:61932: 0
+[2022-01-14 12:51:54] Catre /127.0.0.1:61932: Parola nu corespunde acestui cont! Reintrodu parola: 
+[2022-01-14 12:51:58] De la /127.0.0.1:61932: 000
+[2022-01-14 12:51:58] Catre /127.0.0.1:61932: Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 12:51:58] Catre madalin: 1dCl13nt~madalin
+[2022-01-14 12:51:58] Catre qwe: Utilizatorul madalin s-a conectat!
+> 
+[2022-01-14 12:52:07] De la /127.0.0.1:61931: auth
+[2022-01-14 12:52:07] Catre /127.0.0.1:61931: Nume utilizator: 
+[2022-01-14 12:52:08] De la /127.0.0.1:61931: asd
+[2022-01-14 12:52:08] Catre /127.0.0.1:61931: Parola: 
+[2022-01-14 12:52:09] De la /127.0.0.1:61931: asd
+[2022-01-14 12:52:09] Catre /127.0.0.1:61931: Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 12:52:09] Catre asd: 1dCl13nt~asd
+[2022-01-14 12:52:09] Catre qwe: Utilizatorul asd s-a conectat!
+> 
+[2022-01-14 12:52:09] Catre madalin: Utilizatorul asd s-a conectat!
+> 
+[2022-01-14 13:00:47] De la madalin: online
+[2022-01-14 13:00:47] Catre madalin: Lista utilizatorilor conectati: qwe | madalin | asd | 
+> 
+[2022-01-14 13:01:13] Catre qwe: Utilizatorul asd s-a deconectat!
+> 
+[2022-01-14 13:01:13] Catre madalin: Utilizatorul asd s-a deconectat!
+> 
+[2022-01-14 13:01:17] De la madalin: online
+[2022-01-14 13:01:17] Catre madalin: Lista utilizatorilor conectati: qwe | madalin | 
+> 
+[2022-01-14 13:01:31] Catre madalin: Utilizatorul qwe s-a deconectat!
+> 
+[2022-01-14 13:01:37] De la madalin: online
+[2022-01-14 13:01:37] Catre madalin: Lista utilizatorilor conectati: madalin | 
+> 
+[2022-01-14 13:05:39] De la madalin: d
+[2022-01-14 13:05:39] Catre madalin: Comanda inexistenta! Incearca comanda help
+> 
+[2022-01-14 13:06:00] Catre /127.0.0.1:61948: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 13:06:06] Catre /127.0.0.1:61949: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 13:06:09] Catre /127.0.0.1:61950: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 13:06:14] De la /127.0.0.1:61948: auth
+[2022-01-14 13:06:14] Catre /127.0.0.1:61948: Nume utilizator: 
+[2022-01-14 13:06:15] De la /127.0.0.1:61948: madalin
+[2022-01-14 13:06:15] Catre /127.0.0.1:61948: Parola: 
+[2022-01-14 13:06:16] De la /127.0.0.1:61948: 000
+[2022-01-14 13:06:16] Catre /127.0.0.1:61948: Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 13:06:16] Catre madalin: 1dCl13nt~madalin
+[2022-01-14 13:06:18] De la /127.0.0.1:61949: auth
+[2022-01-14 13:06:18] Catre /127.0.0.1:61949: Nume utilizator: 
+[2022-01-14 13:06:19] De la /127.0.0.1:61949: qwe
+[2022-01-14 13:06:19] Catre /127.0.0.1:61949: Parola: 
+[2022-01-14 13:06:19] De la /127.0.0.1:61949: qwe
+[2022-01-14 13:06:19] Catre /127.0.0.1:61949: Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 13:06:19] Catre qwe: 1dCl13nt~qwe
+[2022-01-14 13:06:19] Catre madalin: Utilizatorul qwe s-a conectat!
+> 
+[2022-01-14 13:06:21] De la /127.0.0.1:61950: auth
+[2022-01-14 13:06:21] Catre /127.0.0.1:61950: Nume utilizator: 
+[2022-01-14 13:06:22] De la /127.0.0.1:61950: asd
+[2022-01-14 13:06:22] Catre /127.0.0.1:61950: Parola: 
+[2022-01-14 13:06:22] De la /127.0.0.1:61950: asd
+[2022-01-14 13:06:22] Catre /127.0.0.1:61950: Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 13:06:22] Catre asd: 1dCl13nt~asd
+[2022-01-14 13:06:22] Catre madalin: Utilizatorul asd s-a conectat!
+> 
+[2022-01-14 13:06:22] Catre qwe: Utilizatorul asd s-a conectat!
+> 
+[2022-01-14 13:06:35] Catre madalin: Utilizatorul qwe s-a deconectat!
+> 
+[2022-01-14 13:06:35] Catre asd: Utilizatorul qwe s-a deconectat!
+> 
+[2022-01-14 13:11:13] Catre /127.0.0.1:63213: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 13:11:15] De la /127.0.0.1:63213: auth
+[2022-01-14 13:11:15] Catre /127.0.0.1:63213: Nume utilizator: 
+[2022-01-14 13:11:16] De la /127.0.0.1:63213: madalin
+[2022-01-14 13:11:16] Catre /127.0.0.1:63213: Parola: 
+[2022-01-14 13:11:17] De la /127.0.0.1:63213: 000
+[2022-01-14 13:11:17] Catre /127.0.0.1:63213: Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 13:11:17] Catre madalin: 1dCl13nt~madalin
+[2022-01-14 13:11:28] De la madalin: addcat
+[2022-01-14 13:11:28] Catre madalin: Introdu numele categoriei: 
+[2022-01-14 13:11:36] De la madalin: muzica
+[2022-01-14 13:11:36] Catre madalin: Categoria a fost adaugata! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:11:39] De la madalin: addcat
+[2022-01-14 13:11:39] Catre madalin: Introdu numele categoriei: 
+[2022-01-14 13:11:41] De la madalin: muzica
+[2022-01-14 13:11:41] Catre madalin: Categoria a fost adaugata! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:12:21] De la madalin: addcat
+[2022-01-14 13:12:21] Catre madalin: Introdu numele categoriei: 
+[2022-01-14 13:12:23] De la madalin: muzica
+[2022-01-14 13:12:23] Catre madalin: Categoria a fost adaugata! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:15:11] Catre /127.0.0.1:63228: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 13:15:13] De la /127.0.0.1:63228: auth
+[2022-01-14 13:15:13] Catre /127.0.0.1:63228: Nume utilizator: 
+[2022-01-14 13:15:14] De la /127.0.0.1:63228: madalin
+[2022-01-14 13:15:14] Catre /127.0.0.1:63228: Parola: 
+[2022-01-14 13:15:15] De la /127.0.0.1:63228: 000
+[2022-01-14 13:15:15] Catre /127.0.0.1:63228: Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 13:15:15] Catre madalin: 1dCl13nt~madalin
+[2022-01-14 13:15:16] De la madalin: addcat
+[2022-01-14 13:15:16] Catre madalin: Introdu numele categoriei: 
+[2022-01-14 13:15:17] De la madalin: muzica
+[2022-01-14 13:15:17] Catre madalin: Categoria a fost adaugata! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:15:21] De la madalin: listcat
+[2022-01-14 13:15:21] Catre madalin: Lista categoriilor: muzica | muzica | muzica | muzica | 
+Lista categoriilor la care te-ai abonat: 
+> 
+[2022-01-14 13:16:34] Catre /127.0.0.1:63231: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 13:16:36] De la /127.0.0.1:63231: auth
+[2022-01-14 13:16:36] Catre /127.0.0.1:63231: Nume utilizator: 
+[2022-01-14 13:16:37] De la /127.0.0.1:63231: madalin
+[2022-01-14 13:16:37] Catre /127.0.0.1:63231: Parola: 
+[2022-01-14 13:16:38] De la /127.0.0.1:63231: 000
+[2022-01-14 13:16:38] Catre /127.0.0.1:63231: Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 13:16:38] Catre madalin: 1dCl13nt~madalin
+[2022-01-14 13:17:13] De la madalin: addcat
+[2022-01-14 13:17:13] Catre madalin: Introdu numele categoriei: 
+[2022-01-14 13:17:18] De la madalin: muzica
+[2022-01-14 13:17:18] Catre madalin: Categoria a fost adaugata! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:17:25] De la madalin: listcat
+[2022-01-14 13:17:25] Catre madalin: Lista categoriilor: muzica | 
+Lista categoriilor la care te-ai abonat: 
+> 
+[2022-01-14 13:17:29] De la madalin: addcat
+[2022-01-14 13:17:29] Catre madalin: Introdu numele categoriei: 
+[2022-01-14 13:17:31] De la madalin: muzica
+[2022-01-14 13:17:31] Catre madalin: Aceasta categorie exista deja! Introdu alta categorie: 
+[2022-01-14 13:17:39] Catre /127.0.0.1:63232: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 13:17:41] De la /127.0.0.1:63232: auth
+[2022-01-14 13:17:41] Catre /127.0.0.1:63232: Nume utilizator: 
+[2022-01-14 13:17:43] De la /127.0.0.1:63232: madalin
+[2022-01-14 13:17:43] Catre /127.0.0.1:63232: Parola: 
+[2022-01-14 13:17:44] De la /127.0.0.1:63232: 000
+[2022-01-14 13:17:44] Catre /127.0.0.1:63232: Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 13:17:44] Catre madalin: 1dCl13nt~madalin
+[2022-01-14 13:17:46] De la madalin: addcat
+[2022-01-14 13:17:46] Catre madalin: Introdu numele categoriei: 
+[2022-01-14 13:20:14] De la madalin: muz
+[2022-01-14 13:20:14] Catre madalin: Categoria a fost adaugata! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:20:45] De la madalin: addcat
+[2022-01-14 13:20:45] Catre madalin: Introdu numele categoriei: 
+[2022-01-14 13:20:48] De la madalin: mu
+[2022-01-14 13:20:48] Catre madalin: Numele categoriei este prea scurt! (min 3 caractere) Reintrodu numele: 
+[2022-01-14 13:20:53] De la madalin: muzica
+[2022-01-14 13:20:53] Catre madalin: Aceasta categorie exista deja! Introdu alta categorie: 
+[2022-01-14 13:21:02] De la madalin: sport
+[2022-01-14 13:21:02] Catre madalin: Categoria a fost adaugata! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:21:13] De la madalin: addcat
+[2022-01-14 13:21:13] Catre madalin: Introdu numele categoriei: 
+[2022-01-14 13:21:16] De la madalin: gaming
+[2022-01-14 13:21:16] Catre madalin: Categoria a fost adaugata! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:21:45] Catre /127.0.0.1:63238: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 13:21:47] De la /127.0.0.1:63238: auth
+[2022-01-14 13:21:47] Catre /127.0.0.1:63238: Nume utilizator: 
+[2022-01-14 13:21:48] De la /127.0.0.1:63238: madalin
+[2022-01-14 13:21:48] Catre /127.0.0.1:63238: Parola: 
+[2022-01-14 13:21:48] De la /127.0.0.1:63238: 000
+[2022-01-14 13:21:48] Catre /127.0.0.1:63238: Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 13:21:48] Catre madalin: 1dCl13nt~madalin
+[2022-01-14 13:21:50] De la madalin: addcat
+[2022-01-14 13:21:50] Catre madalin: Introdu numele categoriei: 
+[2022-01-14 13:21:54] De la madalin: mu
+[2022-01-14 13:21:54] Catre madalin: Numele categoriei este prea scurt! (min 3 caractere) Reintrodu numele: 
+[2022-01-14 13:21:57] De la madalin: muzica
+[2022-01-14 13:21:57] Catre madalin: Categoria a fost adaugata! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:21:59] De la madalin: addcat
+[2022-01-14 13:21:59] Catre madalin: Introdu numele categoriei: 
+[2022-01-14 13:22:04] De la madalin: sport
+[2022-01-14 13:22:04] Catre madalin: Categoria a fost adaugata! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:22:06] De la madalin: addcat
+[2022-01-14 13:22:06] Catre madalin: Introdu numele categoriei: 
+[2022-01-14 13:22:08] De la madalin: gaming
+[2022-01-14 13:22:08] Catre madalin: Categoria a fost adaugata! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:33:52] De la madalin: subcat
+[2022-01-14 13:33:52] Catre madalin: Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:33:55] De la madalin: muzica
+[2022-01-14 13:33:55] Catre madalin: Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:33:58] De la madalin: subcat
+[2022-01-14 13:33:58] Catre madalin: Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:34:03] De la madalin: muzica
+[2022-01-14 13:34:03] Catre madalin: Esti deja abonat la aceasta categorie! Introdu alta categorie: 
+[2022-01-14 13:34:08] De la madalin: gaming
+[2022-01-14 13:34:08] Catre madalin: Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:34:11] De la madalin: listcat
+[2022-01-14 13:34:11] Catre madalin: Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: muzica | gaming | 
+> 
+[2022-01-14 13:36:56] Catre /127.0.0.1:63263: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 13:36:58] De la /127.0.0.1:63263: auth
+[2022-01-14 13:36:58] Catre /127.0.0.1:63263: Nume utilizator: 
+[2022-01-14 13:36:59] De la /127.0.0.1:63263: qwe
+[2022-01-14 13:36:59] Catre /127.0.0.1:63263: Parola: 
+[2022-01-14 13:37:00] De la /127.0.0.1:63263: qwe
+[2022-01-14 13:37:00] Catre /127.0.0.1:63263: Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 13:37:00] Catre qwe: 1dCl13nt~qwe
+[2022-01-14 13:37:00] Catre madalin: Utilizatorul qwe s-a conectat!
+> 
+[2022-01-14 13:37:03] De la qwe: subcat
+[2022-01-14 13:37:03] Catre qwe: Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:37:05] De la qwe: muzica
+[2022-01-14 13:37:05] Catre qwe: Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:37:11] Catre /127.0.0.1:63264: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 13:37:13] De la /127.0.0.1:63264: subcat
+[2022-01-14 13:37:13] Catre /127.0.0.1:63264: Neautorizat! Trebuie sa te autentifici!
+> 
+[2022-01-14 13:37:16] De la /127.0.0.1:63264: auth
+[2022-01-14 13:37:16] Catre /127.0.0.1:63264: Nume utilizator: 
+[2022-01-14 13:37:27] De la /127.0.0.1:63264: asd
+[2022-01-14 13:37:27] Catre /127.0.0.1:63264: Parola: 
+[2022-01-14 13:37:28] De la /127.0.0.1:63264: asd
+[2022-01-14 13:37:28] Catre /127.0.0.1:63264: Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 13:37:28] Catre asd: 1dCl13nt~asd
+[2022-01-14 13:37:28] Catre madalin: Utilizatorul asd s-a conectat!
+> 
+[2022-01-14 13:37:28] Catre qwe: Utilizatorul asd s-a conectat!
+> 
+[2022-01-14 13:37:35] De la qwe: subcat
+[2022-01-14 13:37:35] Catre qwe: Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:37:39] De la qwe: sport
+[2022-01-14 13:37:39] Catre qwe: Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:37:46] De la asd: subcat
+[2022-01-14 13:37:46] Catre asd: Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:37:49] De la asd: gaming
+[2022-01-14 13:37:49] Catre asd: Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:37:59] De la qwe: help
+[2022-01-14 13:37:59] Catre qwe: Lista comenzilor:
+register   Inregistrare cont nou
+auth       Autentificare in sistem
+
+online     Afisare utilizatori online
+usersub    Afiseaza abonamentele unui utilizator
+
+listcat    Afisare lista categorii si abonamente
+addcat     Adaugare categorie noua
+subcat     Abonare la o categorie
+unsubcat   Dezabonare categorie si stergere mesaje aferente
+getnews    Solicita mesaje dintr-o categorie de la ceilalti clienti
+
+listmes    Afisare mesaje stocate (Client)
+addmes     Adaugare mesaj (Server + Client)
+delmes     Stergere mesaj stocat (Client)
+autodelmes Stergere mesaj stocat dupa o anumita perioada de timp (Client)
+editmes    Editare mesaj stocat (Client)
+
+x          Anulare request
+bye        Iesire din sistem (Client)
+> 
+[2022-01-14 13:38:12] De la madalin: usersub
+[2022-01-14 13:38:12] Catre madalin: Introdu numele utilizatorului: 
+[2022-01-14 13:38:16] De la madalin: q
+[2022-01-14 13:38:16] Catre madalin: Acest utilizator nu exista! Trimite alt nume: 
+[2022-01-14 13:38:18] De la madalin: qwe
+[2022-01-14 13:38:18] Catre madalin: Abonamentele utilizatorului qwe: muzica | sport | 
+> 
+[2022-01-14 13:38:21] De la madalin: usersub
+[2022-01-14 13:38:21] Catre madalin: Introdu numele utilizatorului: 
+[2022-01-14 13:38:28] De la madalin: asd
+[2022-01-14 13:38:28] Catre madalin: Abonamentele utilizatorului asd: gaming | 
+> 
+[2022-01-14 13:47:21] De la madalin: listcat
+[2022-01-14 13:47:21] Catre madalin: Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: muzica | gaming | 
+> 
+[2022-01-14 13:47:24] De la madalin: addmes
+[2022-01-14 13:47:24] Catre madalin: Introdu categoria: 
+[2022-01-14 13:47:37] De la madalin: desen
+[2022-01-14 13:47:37] Catre madalin: Aceasta categorie nu exista! Introdu alta categorie: 
+[2022-01-14 13:47:44] De la madalin: sport
+[2022-01-14 13:47:44] Catre madalin: Nu esti abonat la aceasta categorie! Introdu alta categorie: 
+[2022-01-14 13:47:49] De la madalin: muzica
+[2022-01-14 13:47:49] Catre madalin: Introdu mesajul: 
+[2022-01-14 13:47:58] De la madalin: m
+[2022-01-14 13:47:58] Catre madalin: Mesajul este prea scurt! Minim 3 caractere. Reintrodu mesajul: 
+[2022-01-14 13:48:17] De la qwe: listcat
+[2022-01-14 13:48:17] Catre qwe: Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: muzica | sport | 
+> 
+[2022-01-14 13:48:23] De la asd: listcat
+[2022-01-14 13:48:23] Catre asd: Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: gaming | 
+> 
+[2022-01-14 13:48:27] De la madalin: Mesaj din categoria muzica
+[2022-01-14 13:48:28] Catre madalin: s4lv4r3~madalin~50adb92f51485d7bb21c1ea3b3b0881b~muzica~Mesaj din categoria muzica
+[2022-01-14 13:48:28] Catre madalin: s4lv4r3~madalin~50adb92f51485d7bb21c1ea3b3b0881b~muzica~Mesaj din categoria muzica
+[2022-01-14 13:49:07] De la qwe: addmes
+[2022-01-14 13:49:07] Catre qwe: Introdu categoria: 
+[2022-01-14 13:49:09] De la qwe: muzica
+[2022-01-14 13:49:09] Catre qwe: Introdu mesajul: 
+[2022-01-14 13:49:18] De la qwe: Si eu trimis un mesaj in muzica
+[2022-01-14 13:49:18] Catre qwe: s4lv4r3~qwe~f234d7d3be01a2d4fe321fbc849e15b1~muzica~Si eu trimis un mesaj in muzica
+[2022-01-14 13:49:18] Catre qwe: s4lv4r3~qwe~f234d7d3be01a2d4fe321fbc849e15b1~muzica~Si eu trimis un mesaj in muzica
+[2022-01-14 13:56:53] De la madalin: addmes
+[2022-01-14 13:56:53] Catre madalin: Introdu categoria: 
+[2022-01-14 13:56:54] De la madalin: gaming
+[2022-01-14 13:56:54] Catre madalin: Introdu mesajul: 
+[2022-01-14 13:57:05] De la madalin: Jocuri gratis pe EpicGames
+[2022-01-14 13:57:05] Catre madalin: s4lv4r3~madalin~4745c7c0940bc54cea6126f85d43a517~gaming~Jocuri gratis pe EpicGames
+[2022-01-14 13:57:05] Catre madalin: s4lv4r3~madalin~4745c7c0940bc54cea6126f85d43a517~gaming~Jocuri gratis pe EpicGames
+[2022-01-14 13:58:08] De la asd: listcat
+[2022-01-14 13:58:08] Catre asd: Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: gaming | 
+> 
+[2022-01-14 13:58:22] De la asd: subcat
+[2022-01-14 13:58:22] Catre asd: Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:58:24] De la asd: muzica
+[2022-01-14 13:58:24] Catre asd: Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:58:37] De la asd: Marshmello a lansat o melodie noua!
+[2022-01-14 13:58:37] Catre asd: Comanda inexistenta! Incearca comanda help
+> 
+[2022-01-14 13:58:42] De la asd: addmes
+[2022-01-14 13:58:42] Catre asd: Introdu categoria: 
+[2022-01-14 13:58:44] De la asd: muzica
+[2022-01-14 13:58:44] Catre asd: Introdu mesajul: 
+[2022-01-14 13:58:45] De la asd: Marshmello a lansat o melodie noua!
+[2022-01-14 13:58:45] Catre asd: s4lv4r3~asd~7dc9889414b3ca722f961ff12f1335a5~muzica~Marshmello a lansat o melodie noua!
+[2022-01-14 13:58:45] Catre asd: s4lv4r3~asd~7dc9889414b3ca722f961ff12f1335a5~muzica~Marshmello a lansat o melodie noua!
+[2022-01-14 13:58:45] Catre asd: s4lv4r3~asd~7dc9889414b3ca722f961ff12f1335a5~muzica~Marshmello a lansat o melodie noua!
+[2022-01-14 13:58:57] De la madalin: listcat
+[2022-01-14 13:58:57] Catre madalin: Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: muzica | gaming | 
+> 
+[2022-01-14 13:59:06] De la madalin: subcat
+[2022-01-14 13:59:06] Catre madalin: Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 13:59:08] De la madalin: sport
+[2022-01-14 13:59:08] Catre madalin: Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 13:59:12] De la madalin: addmes
+[2022-01-14 13:59:12] Catre madalin: Introdu categoria: 
+[2022-01-14 13:59:13] De la madalin: sport
+[2022-01-14 13:59:13] Catre madalin: Introdu mesajul: 
+[2022-01-14 14:00:25] De la madalin: Dinamo 8:1 Real Madrid. That's a fact :D
+[2022-01-14 14:00:25] Catre madalin: s4lv4r3~madalin~899adfa1bb0ac683ae3b7a4367db80b1~sport~Dinamo 8:1 Real Madrid. That's a fact :D
+[2022-01-14 14:00:25] Catre madalin: s4lv4r3~madalin~899adfa1bb0ac683ae3b7a4367db80b1~sport~Dinamo 8:1 Real Madrid. That's a fact :D
+[2022-01-14 14:04:42] De la qwe: help
+[2022-01-14 14:04:42] Catre qwe: Lista comenzilor:
+register   Inregistrare cont nou
+auth       Autentificare in sistem
+
+online     Afisare utilizatori online
+usersub    Afiseaza abonamentele unui utilizator
+
+listcat    Afisare lista categorii si abonamente
+addcat     Adaugare categorie noua
+subcat     Abonare la o categorie
+unsubcat   Dezabonare categorie si stergere mesaje aferente
+getnews    Solicita mesaje dintr-o categorie de la ceilalti clienti
+
+listmes    Afisare mesaje stocate (Client)
+addmes     Adaugare mesaj (Server + Client)
+delmes     Stergere mesaj stocat (Client)
+autodelmes Stergere mesaj stocat dupa o anumita perioada de timp (Client)
+editmes    Editare mesaj stocat (Client)
+
+x          Anulare request
+bye        Iesire din sistem (Client)
+> 
+[2022-01-14 14:15:49] De la madalin: online
+[2022-01-14 14:15:49] Catre madalin: Lista utilizatorilor conectati: madalin | qwe | asd | 
+> 
+[2022-01-14 14:15:54] De la madalin: listcat
+[2022-01-14 14:15:54] Catre madalin: Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: muzica | gaming | sport | 
+> 
+[2022-01-14 14:22:26] De la asd: unsubcat
+[2022-01-14 14:22:26] Catre asd: Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:22:31] De la asd: muzica
+[2022-01-14 14:22:31] Catre asd: Te-ai dezabonat de la categoria muzica
+[2022-01-14 14:22:31] Catre asd: d3z4b0n4r3~muzica
+[2022-01-14 14:22:33] De la asd: unsubcat
+[2022-01-14 14:22:33] Catre asd: Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:22:35] De la asd: gaming
+[2022-01-14 14:22:35] Catre asd: Te-ai dezabonat de la categoria gaming
+[2022-01-14 14:22:35] Catre asd: d3z4b0n4r3~gaming
+[2022-01-14 14:22:46] De la asd: unsubcat
+[2022-01-14 14:22:46] Catre asd: Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:22:49] De la asd: 
+[2022-01-14 14:22:49] Catre asd: Nu esti abonat la aceasta categorie! Introdu alta categorie: 
+[2022-01-14 14:22:50] De la asd: x
+[2022-01-14 14:22:50] Catre asd: 
+> 
+[2022-01-14 14:22:53] De la asd: listcat
+[2022-01-14 14:22:53] Catre asd: Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: 
+> 
+[2022-01-14 14:22:56] De la asd: unsubcat
+[2022-01-14 14:22:56] Catre asd: Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:23:05] Catre madalin: Utilizatorul asd s-a deconectat!
+> 
+[2022-01-14 14:23:05] Catre qwe: Utilizatorul asd s-a deconectat!
+> 
+[2022-01-14 14:23:06] Catre madalin: Utilizatorul qwe s-a deconectat!
+> 
+[2022-01-14 14:23:13] Catre /127.0.0.1:64900: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 14:23:16] De la /127.0.0.1:64900: auth
+[2022-01-14 14:23:16] Catre /127.0.0.1:64900: Nume utilizator: 
+[2022-01-14 14:23:18] De la /127.0.0.1:64900: madalin
+[2022-01-14 14:23:18] Catre /127.0.0.1:64900: Parola: 
+[2022-01-14 14:23:18] De la /127.0.0.1:64900: 000
+[2022-01-14 14:23:18] Catre /127.0.0.1:64900: Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 14:23:18] Catre madalin: 1dCl13nt~madalin
+[2022-01-14 14:23:21] Catre /127.0.0.1:64901: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 14:23:22] De la /127.0.0.1:64901: auth
+[2022-01-14 14:23:22] Catre /127.0.0.1:64901: Nume utilizator: 
+[2022-01-14 14:23:22] De la /127.0.0.1:64901: qwe
+[2022-01-14 14:23:22] Catre /127.0.0.1:64901: Parola: 
+[2022-01-14 14:23:23] De la /127.0.0.1:64901: qwe
+[2022-01-14 14:23:23] Catre /127.0.0.1:64901: Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 14:23:23] Catre qwe: 1dCl13nt~qwe
+[2022-01-14 14:23:23] Catre madalin: Utilizatorul qwe s-a conectat!
+> 
+[2022-01-14 14:23:26] Catre /127.0.0.1:64902: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 14:23:27] De la /127.0.0.1:64902: auth
+[2022-01-14 14:23:27] Catre /127.0.0.1:64902: Nume utilizator: 
+[2022-01-14 14:23:28] De la /127.0.0.1:64902: asd
+[2022-01-14 14:23:28] Catre /127.0.0.1:64902: Parola: 
+[2022-01-14 14:23:28] De la /127.0.0.1:64902: asd
+[2022-01-14 14:23:28] Catre /127.0.0.1:64902: Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 14:23:28] Catre asd: 1dCl13nt~asd
+[2022-01-14 14:23:28] Catre madalin: Utilizatorul asd s-a conectat!
+> 
+[2022-01-14 14:23:28] Catre qwe: Utilizatorul asd s-a conectat!
+> 
+[2022-01-14 14:23:31] De la asd: listcat
+[2022-01-14 14:23:31] Catre asd: Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: 
+> 
+[2022-01-14 14:23:35] De la asd: unsubcat
+[2022-01-14 14:23:35] Catre asd: Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:26:24] De la asd: x
+[2022-01-14 14:26:24] Catre asd: 
+> 
+[2022-01-14 14:26:26] De la asd: unsubcat
+[2022-01-14 14:26:26] Catre asd: Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:26:45] Catre /127.0.0.1:64910: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 14:26:47] De la /127.0.0.1:64910: register
+[2022-01-14 14:26:47] Catre /127.0.0.1:64910: Nume utilizator dorit: 
+[2022-01-14 14:26:48] De la /127.0.0.1:64910: asd
+[2022-01-14 14:26:48] Catre /127.0.0.1:64910: Nume de utilizator existent! Introdu alt nume: 
+[2022-01-14 14:26:54] De la /127.0.0.1:64910: x
+[2022-01-14 14:26:54] Catre /127.0.0.1:64910: 
+> 
+[2022-01-14 14:26:56] De la /127.0.0.1:64910: auth
+[2022-01-14 14:26:56] Catre /127.0.0.1:64910: Nume utilizator: 
+[2022-01-14 14:26:57] De la /127.0.0.1:64910: asd
+[2022-01-14 14:26:57] Catre /127.0.0.1:64910: Parola: 
+[2022-01-14 14:26:57] De la /127.0.0.1:64910: asd
+[2022-01-14 14:26:57] Catre /127.0.0.1:64910: Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 14:26:57] Catre asd: 1dCl13nt~asd
+[2022-01-14 14:27:05] De la asd: unsubcat
+[2022-01-14 14:27:05] Catre asd: Nu esti abonat la nici o categorie! Trimite subcat pentru abonare
+> 
+[2022-01-14 14:27:34] Catre /127.0.0.1:64911: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 14:27:36] De la /127.0.0.1:64911: auth
+[2022-01-14 14:27:36] Catre /127.0.0.1:64911: Nume utilizator: 
+[2022-01-14 14:27:37] De la /127.0.0.1:64911: asd
+[2022-01-14 14:27:37] Catre /127.0.0.1:64911: Parola: 
+[2022-01-14 14:27:37] De la /127.0.0.1:64911: asd
+[2022-01-14 14:27:37] Catre /127.0.0.1:64911: Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 14:27:37] Catre asd: 1dCl13nt~asd
+[2022-01-14 14:27:41] De la asd: listsub
+[2022-01-14 14:27:41] Catre asd: Comanda inexistenta! Incearca comanda help
+> 
+[2022-01-14 14:27:52] Catre /127.0.0.1:64912: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 14:27:57] De la /127.0.0.1:64912: auth
+[2022-01-14 14:27:57] Catre /127.0.0.1:64912: Nume utilizator: 
+[2022-01-14 14:27:57] De la /127.0.0.1:64912: asd
+[2022-01-14 14:27:57] Catre /127.0.0.1:64912: Parola: 
+[2022-01-14 14:27:58] De la /127.0.0.1:64912: asd
+[2022-01-14 14:27:58] Catre /127.0.0.1:64912: Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 14:27:58] Catre asd: 1dCl13nt~asd
+[2022-01-14 14:28:00] De la asd: listsub
+[2022-01-14 14:28:00] Catre asd: Comanda inexistenta! Incearca comanda help
+> 
+[2022-01-14 14:28:05] Catre /127.0.0.1:64913: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 14:28:08] De la /127.0.0.1:64913: auth
+[2022-01-14 14:28:08] Catre /127.0.0.1:64913: Nume utilizator: 
+[2022-01-14 14:28:09] De la /127.0.0.1:64913: asd
+[2022-01-14 14:28:09] Catre /127.0.0.1:64913: Parola: 
+[2022-01-14 14:28:10] De la /127.0.0.1:64913: asd
+[2022-01-14 14:28:10] Catre /127.0.0.1:64913: Te-ai autentificat cu succes, asd!
+> 
+[2022-01-14 14:28:10] Catre asd: 1dCl13nt~asd
+[2022-01-14 14:28:12] De la asd: listcat
+[2022-01-14 14:28:12] Catre asd: Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: 
+> 
+[2022-01-14 14:28:15] De la asd: unsubcat
+[2022-01-14 14:28:15] Catre asd: Nu esti abonat la nici o categorie! Trimite subcat pentru abonare
+> 
+[2022-01-14 14:29:01] Catre /127.0.0.1:64914: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 14:29:03] De la /127.0.0.1:64914: auth
+[2022-01-14 14:29:03] Catre /127.0.0.1:64914: Nume utilizator: 
+[2022-01-14 14:29:05] De la /127.0.0.1:64914: madalin
+[2022-01-14 14:29:05] Catre /127.0.0.1:64914: Parola: 
+[2022-01-14 14:29:05] De la /127.0.0.1:64914: 000
+[2022-01-14 14:29:05] Catre /127.0.0.1:64914: Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 14:29:05] Catre madalin: 1dCl13nt~madalin
+[2022-01-14 14:29:05] Catre asd: Utilizatorul madalin s-a conectat!
+> 
+[2022-01-14 14:30:02] De la madalin: unsubcat
+[2022-01-14 14:30:02] Catre madalin: Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:30:23] De la madalin: sport
+[2022-01-14 14:30:23] Catre madalin: Te-ai dezabonat de la categoria sport
+[2022-01-14 14:30:23] Catre madalin: d3z4b0n4r3~sport
+[2022-01-14 14:30:36] De la madalin: listcat
+[2022-01-14 14:30:36] Catre madalin: Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: muzica | gaming | 
+> 
+[2022-01-14 14:30:46] De la madalin: unsubcat
+[2022-01-14 14:30:46] Catre madalin: Introdu numele categoriei de la care doresti sa te dezabonezi: 
+[2022-01-14 14:30:48] De la madalin: sport
+[2022-01-14 14:30:48] Catre madalin: Nu esti abonat la aceasta categorie! Introdu alta categorie: 
+[2022-01-14 14:30:54] De la madalin: muzica
+[2022-01-14 14:30:54] Catre madalin: Te-ai dezabonat de la categoria muzica
+[2022-01-14 14:30:54] Catre madalin: d3z4b0n4r3~muzica
+[2022-01-14 14:36:28] De la madalin: help
+[2022-01-14 14:36:28] Catre madalin: Lista comenzilor:
+register   Inregistrare cont nou
+auth       Autentificare in sistem
+
+online     Afisare utilizatori online
+usersub    Afiseaza abonamentele unui utilizator
+
+listcat    Afisare lista categorii si abonamente
+addcat     Adaugare categorie noua
+subcat     Abonare la o categorie
+unsubcat   Dezabonare categorie si stergere mesaje aferente
+getnews    Solicita mesaje dintr-o categorie de la ceilalti clienti
+
+listmes    Afisare mesaje stocate (Client)
+addmes     Adaugare mesaj (Server + Client)
+delmes     Stergere mesaj stocat (Client)
+autodelmes Stergere mesaj stocat dupa o anumita perioada de timp (Client)
+editmes    Editare mesaj stocat (Client)
+
+x          Anulare request
+bye        Iesire din sistem (Client)
+> 
+[2022-01-14 14:53:21] De la madalin: listcat
+[2022-01-14 14:53:21] Catre madalin: Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: gaming | 
+> 
+[2022-01-14 14:53:27] Catre /127.0.0.1:64955: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 14:53:30] De la /127.0.0.1:64955: auth
+[2022-01-14 14:53:30] Catre /127.0.0.1:64955: Nume utilizator: 
+[2022-01-14 14:53:31] De la /127.0.0.1:64955: qwe
+[2022-01-14 14:53:31] Catre /127.0.0.1:64955: Parola: 
+[2022-01-14 14:53:31] De la /127.0.0.1:64955: qwe
+[2022-01-14 14:53:31] Catre /127.0.0.1:64955: Te-ai autentificat cu succes, qwe!
+> 
+[2022-01-14 14:53:31] Catre qwe: 1dCl13nt~qwe
+[2022-01-14 14:53:31] Catre asd: Utilizatorul qwe s-a conectat!
+> 
+[2022-01-14 14:53:31] Catre madalin: Utilizatorul qwe s-a conectat!
+> 
+[2022-01-14 14:53:45] De la asd: listcat
+[2022-01-14 14:53:45] Catre asd: Lista categoriilor: muzica | sport | gaming | 
+Lista categoriilor la care te-ai abonat: 
+> 
+[2022-01-14 14:55:04] De la asd: subcat
+[2022-01-14 14:55:04] Catre asd: Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 15:01:07] Catre asd: Utilizatorul madalin s-a deconectat!
+> 
+[2022-01-14 15:01:07] Catre qwe: Utilizatorul madalin s-a deconectat!
+> 
+[2022-01-14 15:01:20] De la asd: gaming
+[2022-01-14 15:01:20] Catre asd: Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 15:01:22] De la asd: addmes
+[2022-01-14 15:01:22] Catre asd: Introdu categoria: 
+[2022-01-14 15:01:33] De la asd: gaming
+[2022-01-14 15:01:33] Catre asd: Introdu mesajul: 
+[2022-01-14 15:01:43] De la asd: Am GTA V de pe Epic
+[2022-01-14 15:01:43] Catre asd: s4lv4r3~asd~b4791e7845a486f33bdd5c3573974930~gaming~Am GTA V de pe Epic
+[2022-01-14 15:02:02] De la asd: addmes
+[2022-01-14 15:02:02] Catre asd: Introdu categoria: 
+[2022-01-14 15:02:03] De la asd: gaming
+[2022-01-14 15:02:03] Catre asd: Introdu mesajul: 
+[2022-01-14 15:02:27] De la asd: Si Among Us tot de acolo
+[2022-01-14 15:02:27] Catre asd: s4lv4r3~asd~11436f8f5ea4f2cc8c2ddec8eb1366e6~gaming~Si Among Us tot de acolo
+[2022-01-14 15:02:39] De la qwe: subcat
+[2022-01-14 15:02:39] Catre qwe: Introdu numele categoriei la care doresti sa te abonezi: 
+[2022-01-14 15:02:45] De la qwe: gaming
+[2022-01-14 15:02:45] Catre qwe: Te-ai abonat la aceasta categorie! Pentru a vizualiza categoriile trimite listcat
+> 
+[2022-01-14 15:02:50] De la qwe: addmes
+[2022-01-14 15:02:50] Catre qwe: Introdu categoria: 
+[2022-01-14 15:02:52] De la qwe: gaming
+[2022-01-14 15:02:52] Catre qwe: Introdu mesajul: 
+[2022-01-14 15:03:06] De la qwe: Si eu le am tot de acolo
+[2022-01-14 15:03:06] Catre qwe: s4lv4r3~qwe~bf3312b3dbfe26958f241d2a77eb8e18~gaming~Si eu le am tot de acolo
+[2022-01-14 15:03:06] Catre qwe: s4lv4r3~qwe~bf3312b3dbfe26958f241d2a77eb8e18~gaming~Si eu le am tot de acolo
+[2022-01-14 15:03:17] Catre /127.0.0.1:64996: Bun venit!
+Pentru înregistrare trimite register
+Pentru autentificare trimite auth
+> 
+[2022-01-14 15:03:20] De la /127.0.0.1:64996: auth
+[2022-01-14 15:03:20] Catre /127.0.0.1:64996: Nume utilizator: 
+[2022-01-14 15:03:21] De la /127.0.0.1:64996: madalin
+[2022-01-14 15:03:21] Catre /127.0.0.1:64996: Parola: 
+[2022-01-14 15:03:22] De la /127.0.0.1:64996: 000
+[2022-01-14 15:03:22] Catre /127.0.0.1:64996: Te-ai autentificat cu succes, madalin!
+> 
+[2022-01-14 15:03:22] Catre madalin: 1dCl13nt~madalin
+[2022-01-14 15:03:22] Catre asd: Utilizatorul madalin s-a conectat!
+> 
+[2022-01-14 15:03:22] Catre qwe: Utilizatorul madalin s-a conectat!
+> 
+[2022-01-14 15:03:36] De la madalin: getnews
+[2022-01-14 15:03:36] Catre madalin: Introdu numele categoriei: 
+[2022-01-14 15:03:52] De la madalin: ceva
+[2022-01-14 15:03:52] Catre madalin: Nu esti abonat la aceasta categorie! Introdu alta categorie: 
+[2022-01-14 15:04:04] De la madalin: gaming
+[2022-01-14 15:04:04] Catre madalin: S-a trimis solicitarea ta celorlalti utilizatori conectati pentru categoria gaming
+> 
+[2022-01-14 15:04:04] Catre madalin: 4llF0r0n3~gaming~madalin
+[2022-01-14 15:04:04] Catre madalin: 4llF0r0n3~gaming~madalin
+[2022-01-14 15:04:04] De la qwe: 4llF0r0n3~madalin~s4lv4r3~qwe~bf3312b3dbfe26958f241d2a77eb8e18~gaming~Si eu le am tot de acolo
+[2022-01-14 15:04:04] De la asd: 4llF0r0n3~madalin~s4lv4r3~asd~bf3312b3dbfe26958f241d2a77eb8e18~gaming~Si eu le am tot de acolo
+[2022-01-14 15:04:04] Catre qwe: s4lv4r3~qwe~bf3312b3dbfe26958f241d2a77eb8e18~gaming~Si eu le am tot de acolo
+[2022-01-14 15:04:04] Catre asd: s4lv4r3~asd~bf3312b3dbfe26958f241d2a77eb8e18~gaming~Si eu le am tot de acolo
+[2022-01-14 15:04:04] De la asd: 4llF0r0n3~madalin~s4lv4r3~asd~11436f8f5ea4f2cc8c2ddec8eb1366e6~gaming~Si Among Us tot de acolo
+[2022-01-14 15:04:04] Catre asd: s4lv4r3~asd~11436f8f5ea4f2cc8c2ddec8eb1366e6~gaming~Si Among Us tot de acolo
+[2022-01-14 15:04:04] De la asd: 4llF0r0n3~madalin~s4lv4r3~asd~b4791e7845a486f33bdd5c3573974930~gaming~Am GTA V de pe Epic
+[2022-01-14 15:04:04] Catre asd: s4lv4r3~asd~b4791e7845a486f33bdd5c3573974930~gaming~Am GTA V de pe Epic
